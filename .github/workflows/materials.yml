@@ -1,0 +1,20 @@
+name: Publish original theater media
+on:
+  push:
+    branches: [codex/full-demo-materials]
+    paths: ['.github/demo/**', '.github/workflows/materials.yml']
+permissions:
+  contents: write
+concurrency: theater-original-media
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github
+          persist-credentials: false
+      - run: python .github/demo/originals.py
+        env:
+          GH_TOKEN: ${{ github.token }}
