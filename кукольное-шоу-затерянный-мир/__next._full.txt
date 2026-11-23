@@ -1,0 +1,359 @@
+1:"$Sreact.fragment"
+2:I[4827,[],""]
+3:I[9940,[],""]
+6:"static/chunks/app/(public)/layout-4cc7d50a1200c095.js"
+7:"MobileNavigation"
+8:I[4540,["816","$6"],"$7"]
+11:"ViewportBoundary"
+12:I[7202,[],"$11"]
+14:"MetadataBoundary"
+15:I[7202,[],"$14"]
+16:"$Sreact.suspense"
+18:I[2145,[],"default",1]
+:HL["/ryzhiy-theater-demo/_next/static/css/fa1040c009643ed5.css","style"]
+:HL["/ryzhiy-theater-demo/_next/static/css/17c7c9b302d13b27.css","style"]
+4:X
+f:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L10","p":false,"v":null}}]]
+d:[["children",{"s":{"n":"slug","t":"oc","k":"%D0%BA%D1%83%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D1%88%D0%BE%D1%83-%D0%B7%D0%B0%D1%82%D0%B5%D1%80%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D1%80","s":["_not-found","_global-error","favicon.ico","icon.svg"]},"h":66048,"d":{"r":"$Le","p":false,"v":"$4"},"c":"$Qf"}]]
+5:[["children",{"s":"(public)","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ryzhiy-theater-demo/_next/static/css/fa1040c009643ed5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":["$","div",null,{"className":"public-site","children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"К содержанию"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"header-inner","children":[["$","a",null,{"className":"wordmark","aria-label":"Рыжий Театр — главная","children":[["$","span",null,{"className":"wordmark-main","children":["Рыжий ",["$","span",null,{"className":"wordmark-smile","children":":)"}]]}],["$","span",null,{"className":"wordmark-sub","children":"Театр · Москва"}]],"href":"/ryzhiy-theater-demo/"}],["$","nav",null,{"className":"desktop-nav","aria-label":"Основная навигация","children":[[["$","a","/afisha/",{"children":"Афиша","href":"/ryzhiy-theater-demo/afisha/"}],["$","a","/репертуар/",{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a","/школа/",{"children":"Школа","href":"/ryzhiy-theater-demo/школа/"}],["$","a","/о-театре/",{"children":"О театре","href":"/ryzhiy-theater-demo/о-театре/"}],["$","a","/фото/",{"children":"Фото","href":"/ryzhiy-theater-demo/фото/"}],["$","a","/публикации/",{"children":"Публикации","href":"/ryzhiy-theater-demo/публикации/"}],["$","a","/kontakty/",{"children":"Контакты","href":"/ryzhiy-theater-demo/kontakty/"}]],["$","a",null,{"children":"Архив","href":"/ryzhiy-theater-demo/архив/"}]]}],["$","div",null,{"className":"header-actions","children":[["$","span",null,{"className":"ticket-launch","children":["$","a",null,{"className":"header-ticket","href":"https://redtheater.ru/?afisha_open_widget=1","aria-label":"Купить билет онлайн","children":"Билеты"}]}],["$","$L8",null,{}]]}]]}]}],["$","main",null,{"id":"main-content","className":"site-main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"container not-found-page","children":[["$","p",null,{"className":"section-kicker","children":"404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","p",null,{"children":"Найти спектакль можно в афише, а старую публикацию — в архиве театра."}],["$","div",null,{"children":[["$","a",null,{"className":"button button-primary","children":"Открыть афишу","href":"/ryzhiy-theater-demo/afisha/"}],["$","a",null,{"children":"Найти в архиве","href":"/ryzhiy-theater-demo/архив/"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-brand-block","children":[["$","a",null,{"className":"footer-wordmark","children":"Рыжий Театр","href":"/ryzhiy-theater-demo/"}],"$L9"]}],"$La","$Lb"]}],"$Lc"]}]]}]}]}]]}],"p":false,"v":null},"c":"$Qd"}]]
+0:{"P":null,"c":["","%D0%BA%D1%83%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D1%88%D0%BE%D1%83-%D0%B7%D0%B0%D1%82%D0%B5%D1%80%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D1%80",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$4"},"c":"$Q5"},"h":{"r":["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$L13"}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":"$L17"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$18",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"WsJmgieTSCtyVDy-ZGu0g"}
+1a:I[7202,[],"OutletBoundary"]
+4:C
+9:["$","address",null,{"children":["Москва · улица Руднёвка, 4",["$","br",null,{}],"Камерный зал на 50 мест"]}]
+a:["$","div",null,{"className":"footer-contact","children":[["$","h2",null,{"children":"Касса и адрес"}],["$","a",null,{"href":"tel:+79263219844","children":"8 (926) 321-98-44"}],["$","a",null,{"href":"mailto:r-teatr@yandex.ru","children":"r-teatr@yandex.ru"}],["$","span",null,{"children":"Будни 15:00–20:00 · суббота с 12:00 · воскресенье с 11:00"}],["$","a",null,{"children":"Как добраться","href":"/ryzhiy-theater-demo/kontakty/"}]]}]
+b:["$","nav",null,{"className":"footer-links","aria-label":"Разделы театра","children":[["$","h2",null,{"children":"Разделы"}],["$","a",null,{"children":"Афиша","href":"/ryzhiy-theater-demo/afisha/"}],["$","a",null,{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a",null,{"children":"Актёрская школа","href":"/ryzhiy-theater-demo/школа/"}],["$","a",null,{"children":"О театре","href":"/ryzhiy-theater-demo/о-театре/"}],["$","a",null,{"children":"Фотогалерея","href":"/ryzhiy-theater-demo/фото/"}],["$","a",null,{"children":"Медиатека","href":"/ryzhiy-theater-demo/media-library/"}],["$","a",null,{"children":"Цены и льготы","href":"/ryzhiy-theater-demo/ceny/"}],["$","a",null,{"children":"Франшиза театра","href":"/ryzhiy-theater-demo/franchise/"}],["$","a",null,{"children":"Публикации","href":"/ryzhiy-theater-demo/публикации/"}],["$","a",null,{"children":"Архив сайта","href":"/ryzhiy-theater-demo/архив/"}]]}]
+c:["$","p",null,{"className":"copyright","children":"© «Рыжий Театр» · Фотографии и материалы принадлежат их правообладателям."}]
+e:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":["$L19",[["$","link","0",{"rel":"stylesheet","href":"/ryzhiy-theater-demo/_next/static/css/17c7c9b302d13b27.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L1a",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]]}]
+1c:Tbb47,
+<p><br /></p>
+<figure><img alt="" loading="lazy" src="/ryzhiy-theater-demo/materials/eeb2e8dc469dcebe0921a726e4401a891ce40a6a5e13e4f21f39b4e52f3ecadf.jpg" srcset="/ryzhiy-theater-demo/materials/eeb2e8dc469dcebe0921a726e4401a891ce40a6a5e13e4f21f39b4e52f3ecadf.jpg 1024w, /ryzhiy-theater-demo/materials/56a624b012405a070223d1405aab5dc621bad5dd65defce9a57dd76533056260.jpg 600w, /ryzhiy-theater-demo/materials/5a9f8400954e668700dd4e15442b25b067700f2aa4615a41b3875e49a7d875f4.jpg 300w" /><figcaption>Новогодние спектакли! с 19 декабря по 4 января.  </figcaption></figure>
+<p>Репертуар на декабрь и Новогодние спектакли. Билеты уже в продаже на главной странице сайте. Ближе к Новому году цены могут подрасти.</p>
+<p></p>
+<p> <strong>Репертуар на декабрь:</strong><br />05 декабря в 12:00 «Гуси-Лебеди» (4+)<br />06 декабря в 12:00 «Красная шапочка» (3+). Премьера!<br />12 декабря в 12:00 «Муха-Цокотуха» (4+)<br />13 декабря в 19:00 «Три поросёнка» (3+)<br />19 декабря в 12:00 «По щучьему веленью» (3+)<br />Ёлка с Дедом Морозом и Снегурочкой.<br />20 декабря в 12:00 «Морозко» (4+)<br />Ёлка с Дедом Морозом и Снегурочкой.<br />26 декабря в 11:00 «Как Зайка за Новым годом на Луну летал» (3+)<br />Ёлка с Дедом Морозом и Снегурочкой.<br />26 декабря в 13:00 «Как Зайка за Новым годом на Луну летал» (3+)<br />Ёлка с Дедом Морозом и Снегурочкой.<br />27 декабря в 11:00 «Снежная сказка, или День рождения Снегурочки» (3+) Ёлка с Дедом Морозом и Снегурочкой. Премьера!<br />27 декабря в 13:00 «Снежная сказка, или День рождения Снегурочки» (3+)Ёлка с Дедом Морозом и Снегурочкой. Премьера!</p>
+<p>31 декабря в 12:00 «Как Зайка за Новым годом на Луну летал» (3+)<br />Ёлка с Дедом Морозом и Снегурочкой.</p>
+<p>4 января в 12:00 «Снежная сказка, или День рождения Снегурочки» (3+) Ёлка с Дедом Морозом и Снегурочкой. Премьера! </p>
+<p></p>
+<p> Билеты на фестиваль распространяет аппарат Совета депутатов нашего муниципального округа.  Даты с 20 по 22 ноября. </p>
+<p><img alt="" loading="lazy" height="372" src="/ryzhiy-theater-demo/materials/c8035d45a757f2285f63db8fdc9d386485c9d61b4e6c4611d7f8771425a19e3f.jpg" srcset="/ryzhiy-theater-demo/materials/c8035d45a757f2285f63db8fdc9d386485c9d61b4e6c4611d7f8771425a19e3f.jpg 1024w, /ryzhiy-theater-demo/materials/20d95b28b1d25579251889e9ee505d0b2b4c5e3fb246a33d172d15b34d66755e.jpg 601w, /ryzhiy-theater-demo/materials/829b1e4e5412d76e895088e64455492925ec1c7c66602d76a9e24a3e93c2353e.jpg 300w, /ryzhiy-theater-demo/materials/cfd860177f74a239d9399dc6ac2c8f21c6784472768aa79f2838cb819cfcaeac.jpg 768w" width="560" /></p>
+<p>Идёт дополнительный набор в младшую группу</p>
+<p>З<strong>аписаться в Актёрскую школу “Рыжего Театра” можно по телефону: 8(926) 321-98-44 </strong><br />Идёт дополнительный набор ребят в группы разного возраста:<br />5-8 лет, 9-11, 12-16 лет.<br />Ждём всех мечтателей, непосед и фантазёров!<br />Занятия ведёт художественный руководитель театра, почётный деятель искусств города Москвы Светлов Роман Валерьевич.<br />Запись по телефону: 8(926) 321-98-44<br />С удовольствием ответим на все вопросы.<br />Акция: при покупке абонемента на сентябрь до 29-го августа скидка 10%.</p>
+<p>Младшая группа “Рыжики 1” (5-8 лет). Пн. Чт. 16:00-17:40.</p>
+<p>Школьная группа “Рыжики 2” (9-12 лет). Вт. Пт. 16:00-17:40.</p>
+<p>Старшая группа (13-16 лет лет). Вт. Пт.  19:00-21:00.</p>
+<p>“Киношкола” (10-14 лет).  Суб. 15:00-16:00 (требует уточнения по времени).</p>
+<p><br />
+<br />
+</p>
+<ul></ul>
+<div>
+<p>Запись в Актёрскую школу по телефону: 8(926) 321-98-44</p>
+<p>Адрес: улица Руднёвка, 4 “Рыжий Театр”.</p>
+<p>Наш телеграм-канал:  https://t.me/red_theater_official </p>
+<div id="attachment_3964"><img alt="" loading="lazy" height="372" src="/ryzhiy-theater-demo/materials/2d1a0d3810aaa2afdfef77cc46d2f2d2d2a52ece9e7036f1ecb5e50fdbe068cd.jpg" srcset="/ryzhiy-theater-demo/materials/2d1a0d3810aaa2afdfef77cc46d2f2d2d2a52ece9e7036f1ecb5e50fdbe068cd.jpg 1024w, /ryzhiy-theater-demo/materials/e19c523cfc59e8eb73e37e2e8ba100241ca5789b9dbd7d73b053560455c4193f.jpg 601w, /ryzhiy-theater-demo/materials/c45b5ec0a4a4b2e70655a4cca66e13285ed6d45f349bb983e04daad6ae773620.jpg 300w, /ryzhiy-theater-demo/materials/52618b64b6de5008f24ac072308231440000b6d086b3f45867454759f92de4d2.jpg 768w" width="560" /><p id="caption-attachment-3964">SONY DSC</p></div>
+<p>В Актёрской школе “Рыжего Театра”<br />работают группы разного возраста:<br />5-8 лет, 9-11, 12-16 лет.<br />Ждём всех мечтателей, непосед и фантазёров! Занятия ведёт художественный руководитель театра, Почётный деятель искусств города Москвы Светлов Роман Валерьевич.</p>
+<p>Запись по телефону: 8(926) 321-98-44</p>
+<p><strong>Репертуар на октябрь</strong></p>
+<p>4 октября в 12:00 «Буратино» (4+)<br />5 октября в 12:00 «Три поросёнка» (3+)</p>
+<p>11 октября в 12:00 «Лучшая мама» (3+)<br />11 октября в 19:00 «Ревизор» (10+).<br />Вечно живая комедия Николая Гоголя<br />12 октября в 12:00 «Самые первые сказки» (3+)</p>
+<p>18 октября в 12:00 «Маша и медведь» (3+)<br />19 октября в 12:00 «Самый лучший Карлсон» (5+)</p>
+<p>25 октября в 12:00 «Теремок» (2+)<br />25 октября в 18:00 «Чехов. Маленькие комедии» (10+)<br />26 октября в 12:00 «Затерянный мир» (4+)</p>
+</div>
+<div>
+<h4>Театр пускает бесплатно на спектакли детей, чьи папы и братья стали мобилизованными. В период тяжёлых испытаний для всей страны, “Рыжий Театр” остаётся приверженным общечеловеческим ценностям. Мы любим своего зрителя, особенно самого юного. Начиная с 25 сентября 2022 года, для всех детей, чьи папы и братья стали мобилизованными, вход на спектакли театра – бесплатный.</h4>
+<div>
+<p><strong>Желаем всем выдержки, мужества и человечности.</strong><br /><strong>И пусть быстрее наступит мир!</strong></p>
+<p><strong>Программа для мобилизованных, многодетных, работает весь сезон кроме новогодней кампании и Международного фестиваля. </strong></p>
+<p><strong>“Рыжий Театр” открыл 12-й театральный сезон спектаклем</strong> “Приключения Буратино”. Юные зрители были в полном восторге! Активно участвовали в событиях развернувшихся на берегу итальянского побережья в цирке Карабаса Барабаса и долго аплодировали всем героям сказки.<br />Фото из спектакля “Приключения Буратино”:<br /><a href="https://vk.com/album-49608090_286705117">https://vk.com/album-49608090_286705117</a><br />За годы работы, театр вошёл в пятёрку лучших детских театров Москвы. <br />“Рыжий Театр” – это маленькая планета наполненная солнцем и танцем.  А для желающих начать своё дело наполненное творчеством и драйвом – существует франшиза от “Рыжего”.<br />В эти выходные можно увидеть спектакли “Гуси-Лебеди” и “Самые первые сказки”.<br />Ближайшая большая премьера состоится 29 сентября – спектакль для всей семьи “Самый лучший Карлсон”. <br />В главной роли художественный руководитель театра Роман Светлов. Для поиска образа, он специально летал в Стокгольм, чтобы погрузиться в роль всеми любимого толстячка с пропеллером.<br />Заглядывайте в группу театра на ВК: <a href="https://vk.com/red_theater">https://vk.com/red_theater</a><br />И телеграм: <a href="https://t.me/red_theater_official">https://t.me/red_theater_official</a><br />Билеты-онлайн можно купить на главной странице сайта.</p>
+</div>
+<div>
+<div id="wpt-49608090_1601">
+<div>
+<p></p>
+<p></p>
+<p>Оценили 0 человек</p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div title="Комментарий"> </div>
+<div title="Поделиться"><strong><span>«Чехов. Маленькие комедии».  </span></strong></div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<p><span>Две одноактные комедии Антона Павловича Чехова “Медведь” и “Предложение”  – наполненные авторской остротой и комической наблюдательностью.</span><br /><span>Любовь, страсть, недоразумения, холод и теплота маленьких человеческих историй, рассказанная с тонким искромётным юмором.</span><br /><span>Яркие костюмы 19-го века, живая актёрская игра и следование букве и стилю автора помогает погрузится в атмосферу раннего, весёлого Чехова. Так, как Доктор и прописал!</span><br /><span>В ролях: Ксения Бевзова, Андрей Кочинов, Валерий Надоленко, Роман Светлов, Татьяна Попова.</span><br /><span>Художник: Мария Шевченко</span><br /><span>Режиссёр-постановщик Роман Светлов.</span></p>
+<div id="attachment_2870"><a href="/ryzhiy-theater-demo/materials/b68dc9049c8a98119dd935b828cf4b79431af61ccb75a11af44e0d15506cba36.jpg"><img alt="12 февраля, в 19:00 &quot;Чехов. Маленькие комедии&quot; (10+)" loading="lazy" height="372" src="/ryzhiy-theater-demo/materials/1f09e1f5365d381fa96b13f94092c8ba8ce18e9778a3d4d1cf958bfdf3fc2487.jpg" srcset="/ryzhiy-theater-demo/materials/1f09e1f5365d381fa96b13f94092c8ba8ce18e9778a3d4d1cf958bfdf3fc2487.jpg 1024w, /ryzhiy-theater-demo/materials/94e1a8ee1e7120317a1c5d051e60efe5873dcb75e08d8655d5de48ce8465cb4e.jpg 300w" width="560" /></a><p id="caption-attachment-2870">“Чехов. Маленькие комедии” (10+)</p></div>
+<p><strong>Актёрская школа — дети</strong></p>
+<p>Есть несколько мест в группы: 9-12, 13-16 лет.</p>
+<div>Идёт 10-й сезон в Актёрской школе “Рыжего Театра”!</div>
+<div>Энергия и артистизм юных звёздочек бьёт ключом!</div>
+<div>Готовы помочь Вам раскрепоститься и окунуться в атмосферу солнца и танца.</div>
+<div> </div>
+<div>Присоединяйтесь к нашей команде!</div>
+<div><strong>Ждём всех мечтателей и фантазёров!</strong></div>
+<p>Можно позвонить, записаться на прослушивание: <strong>8(926) 321-98-44 </strong></p>
+<p><a href="/ryzhiy-theater-demo/materials/39482e9002d77508f535127bc7e8f36a009436c0347d3aef96932b36aec33271.jpg"><img alt="День театра. У занавеса. - копия" loading="lazy" height="371" src="/ryzhiy-theater-demo/materials/6d63139c98336e8f7df39d1e9ca1ceea7a1e2ea6c23e8ca6c0d21ea717c557e8.jpg" srcset="/ryzhiy-theater-demo/materials/6d63139c98336e8f7df39d1e9ca1ceea7a1e2ea6c23e8ca6c0d21ea717c557e8.jpg 1024w, /ryzhiy-theater-demo/materials/0117116252f472350cac3a7cccd1f2fc73a47d4bfde06e6e20f4bc12d88ad7a0.jpg 300w, /ryzhiy-theater-demo/materials/39482e9002d77508f535127bc7e8f36a009436c0347d3aef96932b36aec33271.jpg 1280w" width="560" /></a></p>
+<p><a href="/ryzhiy-theater-demo/materials/ec23dca6a5cb81105ae4855b9edf9df64e97942e64698c3191c7e1738f59bc4d.jpg"><img alt="10 лет" loading="lazy" height="395" src="/ryzhiy-theater-demo/materials/232811f09811ec2282ed39cf09752d1e626a7ff00eae34de6a3f3eb25db9b3cf.jpg" srcset="/ryzhiy-theater-demo/materials/232811f09811ec2282ed39cf09752d1e626a7ff00eae34de6a3f3eb25db9b3cf.jpg 1024w, /ryzhiy-theater-demo/materials/45301c8411b113bb8f0a4b7a0fd93e158ecbfaa5ba70eff3bd7f7867ffc3c3dd.jpg 565w, /ryzhiy-theater-demo/materials/e47d21efaeace58be42ec6e37865829e2b987b90f3d19fbb794d190e8d83c7f0.jpg 300w, /ryzhiy-theater-demo/materials/ec23dca6a5cb81105ae4855b9edf9df64e97942e64698c3191c7e1738f59bc4d.jpg 1191w" width="560" /></a></p>
+<p>Подробные фото и видеоотчёты актёрской школы за все годы смотрите на нашей странице в ВК  https://vk.com/red_theater</p>
+<p>Если Вы чувствуете в своём ребёнке творческую искорку или хотите помочь ему избавиться от стеснения, скованности – отправляйтесь в «Рыжий Театр». Если Вы давно искали актёрские курсы, театральную студию, детский театр с обучением актёрскому мастерству рядом с домом – смело приходите к нам.  Вас встретят опытные педагоги выпускники ведущих театральных вузов, специалисты по актёрскому мастерству, сценической речи, сценическому движению, пластике. На прослушивание можно подготовить маленькое стихотворение или песню. Но, главное для нас Ваше желание и позитивный настрой. “Рыжий Театр” – это маленькая планета со своим кислородом и силой притяжения, наполненная солнцем и танцем. Лучшие студенты по итогам каждого полугодия награждаются призами.</p>
+<p><img alt="" loading="lazy" height="372" src="/ryzhiy-theater-demo/materials/995c52913ecc020361e2a7bf453a0d6a54739e206084146a148f62fc1ecfe97f.jpg" srcset="/ryzhiy-theater-demo/materials/995c52913ecc020361e2a7bf453a0d6a54739e206084146a148f62fc1ecfe97f.jpg 1024w, /ryzhiy-theater-demo/materials/a10cfa1050fd7660e9ed9d29f96f9a33e4056ce26d0787951ca0fce60efc8e12.jpg 601w, /ryzhiy-theater-demo/materials/b4ca611807b728e8195ae621b395c2f06d76245d269bbab66d9115b43f0aa0b5.jpg 300w" width="560" /></p>
+<p>В театр часто приезжают известные актёры. У нас уже побывали «Братья Воронины» актёры Станислав Дужников и Георгий Дронов – звёзды популярного сериала, актёры Владимир Гостюхин, Сергей Варчук, Евгений Воскресенский. В День Театра у на проходит традиционный бал-карнавал: парад маскарадных костюмов, конкурсы, капустник – состоящий из наблюдений за звёздами эстрады и музыкальных номеров. Но, самый большой праздники – это открытый урок. Проходит два раза в году. В этот день главными зрителями становятся наши дорогие родители и друзья. Камеры, фотоаппараты, море цветов и заслуженные аплодисменты – всё это вдохновляет и даёт заряд творческих сил юным артистам.</p>
+<div id="attachment_2454"><a href="/ryzhiy-theater-demo/materials/33d536d5681195f395e69510ccc6d1471102a57e1525b7817a8f6190c302ad3e.jpg"><img alt="Актёрская школа &quot;Рыжего Театра&quot;. Идёт набор в группы всех возрастов. Мы зажигаем звёзды!" loading="lazy" height="372" src="/ryzhiy-theater-demo/materials/ac17865c9acd03d1dfa52e8709d39cc8601342205734f9fe136f05b61cae8c82.jpg" srcset="/ryzhiy-theater-demo/materials/ac17865c9acd03d1dfa52e8709d39cc8601342205734f9fe136f05b61cae8c82.jpg 1024w, /ryzhiy-theater-demo/materials/2befbf326553aa909c717984abcf3bfd535e1297a622fa1414170588a8409db6.jpg 601w, /ryzhiy-theater-demo/materials/f91f6cc81730fd8e57ff7f07827c6d028f7a3829d645a87a3f564a061a6a25d5.jpg 300w" width="560" /></a><p id="caption-attachment-2454">Актёрская школа “Рыжего Театра”. Идёт набор в группы всех возрастов. Мы зажигаем звёзды!</p></div>
+<p>Стоимость обучения 6500 в месяц за 8 уроков. Стоимость при оплате за один урок 1200 рублей.</p>
+<p><strong>Расписание занятий:</strong></p>
+<p>Рыжики 1 .  Младшая группа (5 — 7 лет). Пн. Чт. с 16:00 до 17:40.</p>
+<p>Рыжики 2 . Младшая группа (6-8 лет). Вт. Пт. с 16:00 до 17:40.</p>
+<p>Мастерская № 15. Средняя — продвинутая (10-12 лет). Вт. Пт.  с 19:00 до 21:00.</p>
+<p>Мастерская № 16. Средняя группа (10-12 лет).  Суб. с 19:00 до 21:00,  Вскр. с 18:00 до 20:00.</p>
+<p>Мастерская № 11. Старшая группа. (14-16 лет)  Пн. Чт.  с 19:00 до 21:00.</p>
+<p>Наша актёрская школа существует с 1998-го года. Долгое время мы работали в Госкино России ( Министерство Культуры Р.Ф.)  – в Гнездниковском переулке. На наши занятия приходили не только желающие поступать в театральные Вузы, но и люди иных профессиональных устремлений. Раскрепощение, коммуникабельность, импровизационное самочувствие, развитие творческого мышления – все эти инструменты оказались востребованными не только будущими артистами, но и бизнесменами, политиками, учителями. Выпускники нашей школы учатся во всех ведущих театральных институтах Москвы, активно снимаются в кино.</p>
+<div id="attachment_2455"><a href="/ryzhiy-theater-demo/materials/8dccce0d8e168f79bd19c2f709f6d09734135126ee16dff95d9faaecd49ce0ee.jpg"><img alt="Актёрская школа &quot;Рыжего Театра&quot;. Идёт набор в группы всех возрастов. Мы зажигаем звёзды!" loading="lazy" height="325" src="/ryzhiy-theater-demo/materials/8dccce0d8e168f79bd19c2f709f6d09734135126ee16dff95d9faaecd49ce0ee.jpg" srcset="/ryzhiy-theater-demo/materials/8dccce0d8e168f79bd19c2f709f6d09734135126ee16dff95d9faaecd49ce0ee.jpg 575w, /ryzhiy-theater-demo/materials/d8d42feb0d9975f1a19a5bc1b959d60fdc248b0dade83ef7be2a9244888caa83.jpg 300w" width="575" /></a><p id="caption-attachment-2455">Актёрская школа “Рыжего Театра”. Идёт набор в группы всех возрастов. Мы зажигаем звёзды!</p></div>
+<p><strong><span>Премьера </span><span>«Чехов. Маленькие комедии».</span></strong></p>
+<p><span>Две одноактные комедии Антона Павловича Чехова “Медведь” и “Предложение”  – наполненные авторской остротой и комической наблюдательностью.</span><br /><span>Любовь, страсть, недоразумения, холод и теплота маленьких человеческих историй, рассказанная с тонким искромётным юмором.</span><br /><span>Яркие костюмы 19-го века, живая актёрская игра и следование букве и стилю автора помогает погрузится в атмосферу раннего, весёлого Чехова. Так, как Доктор и прописал!</span><br /><span>В ролях: Ксения Бевзова, Андрей Кочинов, Валерий Надоленко, Роман Светлов, Татьяна Попова.</span><br /><span>Художник: Мария Шевченко</span><br /><span>Режиссёр-постановщик Роман Светлов.</span></p>
+<div id="attachment_2870"><a href="/ryzhiy-theater-demo/materials/b68dc9049c8a98119dd935b828cf4b79431af61ccb75a11af44e0d15506cba36.jpg"><img alt="2 и 19 декабря, в 19:00 &quot;Чехов. Маленькие комедии&quot; (10+).  Премьера!" loading="lazy" height="372" src="/ryzhiy-theater-demo/materials/1f09e1f5365d381fa96b13f94092c8ba8ce18e9778a3d4d1cf958bfdf3fc2487.jpg" srcset="/ryzhiy-theater-demo/materials/1f09e1f5365d381fa96b13f94092c8ba8ce18e9778a3d4d1cf958bfdf3fc2487.jpg 1024w, /ryzhiy-theater-demo/materials/94e1a8ee1e7120317a1c5d051e60efe5873dcb75e08d8655d5de48ce8465cb4e.jpg 300w" width="560" /></a><p id="caption-attachment-2870">“Чехов. Маленькие комедии” (10+). Премьера!</p></div>
+<p>Фото: Светланы Бобровой</p>
+<p><span><strong>Театр соблюдает все необходимые меры профилактики. Антисептик, дезинфекция, неполная загрузка зала. Мы просим зрителей брать с собой маски и сменную обувь.</strong></span></p>
+<p><em>Текст объявления не удаляем. Эта история, которую мы прошли вместе с Вами.</em></p>
+<p><strong>Друзья! В связи со сложившейся ситуацией и согласно указу мэра Москвы о запрете проведения массовых мероприятий с 21 марта и до 10 апреля мы приостанавливаем показы наших спектаклей. Мы могли бы продолжить играть спектакли, наш зал вмещает не более 50 человек, но, здоровье наших зрителей, артистов и сотрудников важнее всего остального. И главное – мы хотим быть солидарны со всей страной, которая переживает непростое время.</strong><br /><strong>Берегите себя, своих родных и близких. Верим: всё будет хорошо, ситуация нормализуется и наш театр вновь увидит счастливые лица любимых зрителей. Всем – лучи солнца и крепкого здоровья.</strong><br /><strong><a href="https://www.facebook.com/hashtag/%D1%80%D1%8B%D0%B6%D0%B8%D0%B9%D1%82%D0%B5%D0%B0%D1%82%D1%80?source=feed_text&amp;epa=HASHTAG"><span><span>#</span><span>рыжийтеатр</span></span></a></strong></p>
+<div id="attachment_1988"><a href="/ryzhiy-theater-demo/materials/51e70d8709544181490822e5b72b9809b11475a9cd03fb5af4f349490f1dff2e.jpg"><img alt="Легендарный &quot;Затерянный мир&quot;. " loading="lazy" height="600" src="/ryzhiy-theater-demo/materials/51e70d8709544181490822e5b72b9809b11475a9cd03fb5af4f349490f1dff2e.jpg" srcset="/ryzhiy-theater-demo/materials/51e70d8709544181490822e5b72b9809b11475a9cd03fb5af4f349490f1dff2e.jpg 800w, /ryzhiy-theater-demo/materials/02bd87a328abcc984055548b2f50f37e4d3c19a19f0544c3ec2099d970400414.jpg 533w, /ryzhiy-theater-demo/materials/2cbaad5b373e6f6aeadc98fbf42c65fca12e372bbf114a3675bbefc587699689.jpg 300w" width="800" /></a><p id="caption-attachment-1988">Легендарный спектакль “Затерянный мир”.</p></div>
+<p><span>8 марта , в 19:00 «Для Вас, Любимые!» (10+).</span><br /><span> Благотворительный вечер студентов Актёрской школы “Рыжего Театра” с участием</span><br /><span> “Звёзд российской эстрады”!  Стас Михайлов, Вера Брежнева, Полина Гагаринова Сердючка и другие. Отрывки по произведениям Шекспира, Островского, комедий Рэя Куни. Стихи Пушкина, Есенина и многое другое. Ждём всех любителей театра и хорошего настроения))) </span></p>
+<p><span>Вход свободный. Просьба заранее забронировать места))  8(926) 321-98-44 </span></p>
+<p><a href="/ryzhiy-theater-demo/materials/39482e9002d77508f535127bc7e8f36a009436c0347d3aef96932b36aec33271.jpg"><img alt="День театра. У занавеса. - копия" loading="lazy" height="371" src="/ryzhiy-theater-demo/materials/6d63139c98336e8f7df39d1e9ca1ceea7a1e2ea6c23e8ca6c0d21ea717c557e8.jpg" srcset="/ryzhiy-theater-demo/materials/6d63139c98336e8f7df39d1e9ca1ceea7a1e2ea6c23e8ca6c0d21ea717c557e8.jpg 1024w, /ryzhiy-theater-demo/materials/0117116252f472350cac3a7cccd1f2fc73a47d4bfde06e6e20f4bc12d88ad7a0.jpg 300w, /ryzhiy-theater-demo/materials/39482e9002d77508f535127bc7e8f36a009436c0347d3aef96932b36aec33271.jpg 1280w" width="560" /></a></p>
+<p><strong>Новости нашего Международного фестиваля)))</strong></p>
+<p>Уже девять публикаций в Индонезии! Вот дают наши друзья)) И столько же у друзей из Италии))</p>
+<p>Московским журналистам стоит поучиться.<br />Кстати, зовут в гости. Теперь парню в золотом цилиндре все фрукты бесплатно))</p>
+<p>От всей души поздравляем всех победителей 4-го Международного фестиваля “Рыжее Настроение”.<br />Terima kasih Kedutaan Besar Republik Indonesia (KBRI) Moskow yang sudah menyebarkan kabar baik tentang kami selama di Rusia. Ini adalah foto pemuatan di Harian Kedaulatan Rakyat, Yogyakarta. Tautan lainnya adalah sebagai berikut:</p>
+<p><a href="/ryzhiy-theater-demo/materials/97627d12de39a927cc2faf718b8a093de1be4eac5de4af5047860a6d9c491d70.jpg"><img alt="Индонезия" loading="lazy" height="720" src="/ryzhiy-theater-demo/materials/97627d12de39a927cc2faf718b8a093de1be4eac5de4af5047860a6d9c491d70.jpg" srcset="/ryzhiy-theater-demo/materials/97627d12de39a927cc2faf718b8a093de1be4eac5de4af5047860a6d9c491d70.jpg 960w, /ryzhiy-theater-demo/materials/00e2ed335d1639dc120497cf8a6dd0749ca796ca5c4ba9893921c6bb538a5e94.jpg 533w, /ryzhiy-theater-demo/materials/936d3213d17627318ac4a506593b86114685ddd39cb88a39eec912b5aa572bb4.jpg 300w" width="960" /></a><br /><a href="https://vk.com/away.php?to=https%3A%2F%2Fwww.kemlu.go.id%2F&amp;post=-49608090_897&amp;cc_key=">https://www.kemlu.go.id/</a>…/Wayang-Keroncong-Raih-Penghargaan…</p>
+<p><a href="https://vk.com/away.php?to=http%3A%2F%2Fwww.tribunnews.com%2F&amp;post=-49608090_897&amp;cc_key=">http://www.tribunnews.com/</a>…/wayang-keroncong-asal-bandung-r…</p>
+<p><a href="https://vk.com/away.php?to=https%3A%2F%2Fnews.detik.com%2F&amp;post=-49608090_897&amp;cc_key=">https://news.detik.com/</a>…/wayang-keroncong-raih-penghargaan-…</p>
+<p><a href="https://vk.com/away.php?to=http%3A%2F%2Fnews.metrotvnews.com%2F&amp;post=-49608090_897&amp;cc_key=">http://news.metrotvnews.com/</a>…/wayang-keroncong-raih-penghar…</p>
+<p><a href="https://vk.com/away.php?to=https%3A%2F%2Fbreakingnews.co.id%2F&amp;post=-49608090_897&amp;cc_key=">https://breakingnews.co.id/</a>…/pada-festival-boneka-moskow-wa…</p>
+<p><a href="https://vk.com/away.php?to=http%3A%2F%2Fforumindonesia.co%2F&amp;post=-49608090_897&amp;cc_key=">http://forumindonesia.co/</a>…/wayang-keroncong-raih-pengharga…/</p>
+<p><a href="https://vk.com/away.php?to=http%3A%2F%2Fm.republika.co.id%2Famp_version%2Foz86tg284&amp;post=-49608090_897&amp;cc_key=">http://m.republika.co.id/amp_version/oz86tg284</a></p>
+<p><a href="https://vk.com/away.php?to=https%3A%2F%2Fwww.antaranews.com%2F&amp;post=-49608090_897&amp;cc_key=">https://www.antaranews.com/</a>…/wayang-keroncong-raih-pengharg…</p>
+<p><a href="https://vk.com/away.php?to=http%3A%2F%2Fwww.infomenarik-terbaru.com%2Fwayang-keroncong-asal-b&amp;post=-49608090_897&amp;cc_key=" title="http://www.infomenarik-terbaru.com/wayang-keroncong-asal-b">http://www.infomenarik-terbaru.com/wayang-keroncong-a..</a>…/</p>
+<p><span>Сегодня открытие Международного фестиваля в 18:00 и показ спектакли “Кот в сапогах”. </span></p>
+<p><span>Поздравляем всех актёров  занятых в спектакле “Ревизор” с премьерой!  Мы все молодцы))  </span></p>
+<p><span>Алексей Нечепуренко, Ксения Бевзова, Анна Воронкова, Семён Окороков, Валерий Надоленко, Андрей Кочинов, Роман Светлов – Мы команда!!!</span></p>
+<div id="attachment_2098"><a href="/ryzhiy-theater-demo/materials/50d07ab8bda2e8d24ca5056a2244379a42b34f82234a790f5cad1a4707017172.jpg"><img alt="15 октября, в 19:00 &quot;Ревизор&quot;. (12+)." loading="lazy" height="372" src="/ryzhiy-theater-demo/materials/8e32110f0dfe2edefe16aa6e8d84e62370bc6c2933485fef71cb9cf23aa7786a.jpg" srcset="/ryzhiy-theater-demo/materials/8e32110f0dfe2edefe16aa6e8d84e62370bc6c2933485fef71cb9cf23aa7786a.jpg 1024w, /ryzhiy-theater-demo/materials/fa281d35c1778869e95f1650e8844b629604e90bf2e4e558fe2d933536a4177c.jpg 601w, /ryzhiy-theater-demo/materials/b387ded86b7feef5bc68ff6f215479f7edc3c88d4e8c5b60318ec6d1e495c71d.jpg 300w" width="560" /></a><p id="caption-attachment-2098">Ближайший спектакль 5 ноября, в 18:00 “Ревизор”. (12+).</p></div>
+<p><span>Поздравляем всех актёров “Рыжего Театра”, занятых в спектакле “Смешные деньги”, с долгожданной премьерой! </span></p>
+<p><span>Алексей Нечепуренко, Ксения Бевзова, Александр Туравинин, Алина Ханжихужина, Роман Светлов, Юлия Петровская, и, конечно же, Елена Папанова – с праздником друзья.  Мы это сделали!</span></p>
+<div id="attachment_1430"><a href="/ryzhiy-theater-demo/materials/048706aba4012ad85ee118a922712ec7ae280f9ae475b4acaff9b17a0f844c2f.jpg"><img alt="Премьера! &quot;Смешные деньги&quot;." loading="lazy" height="372" src="/ryzhiy-theater-demo/materials/1ed69efcb51fbfbca2125f9f40c9f356375ed722842ff9fed65d8be9ef01ae42.jpg" srcset="/ryzhiy-theater-demo/materials/1ed69efcb51fbfbca2125f9f40c9f356375ed722842ff9fed65d8be9ef01ae42.jpg 1024w, /ryzhiy-theater-demo/materials/fbd72ae3bb3d0e41049c7f2f411fa58ff125f48317d5e36b930d07a93d68d39a.jpg 601w, /ryzhiy-theater-demo/materials/c1ed30d176a8ac10fa57d9b3a5e8ecb5b09ac6ef308e0780b2daa96b1b7538b6.jpg 300w" width="560" /></a><p id="caption-attachment-1430">Премьера! “Смешные деньги”.</p></div>
+<p><span>Первые отзывы:</span></p>
+<p><a href="https://vk.com/id1416476">Евгения Полынская</a></p>
+<p>Мы сегодня( 22 марта)  были на премьере спектакля “Смешные деньги” – в полном восторге от увиденного! Очень хорошая постановка, все – режиссура, игра актеров, хореография- вот прямо “как доктор прописал”!!! Елена Папанова своей гротескной игрой очень украсила спектакль! Спасибо.</p>
+<p><span>О спектакле:</span></p>
+<p><span>Искромётная английская комедия. Режиссёр Роман Светлов, автор Рэй Куни, перевод Михаила Мишина. Шутки, танцы, яркие костюмы, забавные повороты сюжета – всё это полуторачасовой фейерверк хорошего настроения в ритме джаза. Одну из ролей в спектакле исполнит дочь легендарного Анатолия Папанова – Елена Папанова.</span></p>
+<p><span>Фабула:</span></p>
+<p><span>Обыкновенный английский бухгалтер Генри находит чемодан денег. Жизнь наполняется красками и яркими мечтами. Понимая, что деньги “нечистые” и за них придётся отвечать, Генри и его жена Джейн пытаются “смыться” в Барселону. Но, опытный мошенник Девенпорт почувствовавший лёгкую наживу и  ответственный инспектор Джулия Слейтон, а также  вечные прилипалы – друзья семьи Виктор  и Бэтти вынуждают героев вместо лёгкой жизни, окунуться в водоворот вранья, паники и бесконечной путаницы…  Ещё бы, ведь на кону сумасшедшие деньги, за которыми вот-вот может явиться мистер Мочила и этот странный тип по имени Сима Дансик. </span></p>
+<div id="attachment_1346"><a href="/ryzhiy-theater-demo/materials/b5d6560bfc20147c1332cc7b1d8c798454d81f44c7ccf0bc9c11718742c3e3d4.jpg"><img alt="22 марта, в 18:00 &quot;Смешные деньги&quot;. Премьера!  Искромётная английская комедия. " loading="lazy" height="424" src="/ryzhiy-theater-demo/materials/43e6acbfb3a383f21d6ef6220d1996948ece4b5a343caa4485165b3338060ed0.jpg" srcset="/ryzhiy-theater-demo/materials/43e6acbfb3a383f21d6ef6220d1996948ece4b5a343caa4485165b3338060ed0.jpg 1024w, /ryzhiy-theater-demo/materials/85709f471dd3b03da027fd09f5ca28ab4444cd1372a154fcd14d55dbe90dc4a3.jpg 527w, /ryzhiy-theater-demo/materials/e8d5104e980846062bf4dc7e91fda09129887917f066f64d181aea80ac48893e.jpg 300w" width="560" /></a><p id="caption-attachment-1346">“Смешные деньги”. Премьера! Искромётная английская комедия.</p></div>
+<p><span><span><span>“Рыжий Театр” – Спектакли для детей и взрослых.</span></span></span></p>
+<p><span>Друзья!</span><br /><span> С момента открытия театра, нас часто спрашивают,”А что для взрослых? Когда будут и для нас спектакли?”</span><br /><span> Каждый год 8 марта, мы проводим музыкально-поэтические вечера, но, конечно, этого мало.</span><br /><span> Больше полугода шли репетиции полноценного большого спектакля в жанре комедии, и наконец, мы готовы предложить “лакомство” и для наших взрослых зрителей: авантюрная комедия положений “Смешные деньги”.</span><br /><span> С марта, мы начинаем позиционировать себя, как Театр для Детей и Взрослых.</span><br /><span> Разумеется, рыжее настроение будет во всех наших работах.</span></p>
+<p><span><span>Репертуар:</span></span></p>
+</div>
+<div>
+<p><span>16 мая, в 16:30</span><span> «Золушка». (3+).</span></p>
+<p><span>24 мая, в 12:00 “Самые первые сказки”.</span> ( Колобок, Курочка Ряба, Репка). (2+).</p>
+</div>
+<div> </div>
+<p><a href="/ryzhiy-theater-demo/materials/2172e120943fda53d3f54efdcd8fa69c3612ff77532e441c7c740f1c5e9d0373.jpg"><img alt="Хор У занавеса крупно перед детьми" loading="lazy" height="372" src="/ryzhiy-theater-demo/materials/3e8780f59a0496c87a0efd509b12ea35fe29c9248d576d1c8525b26acb8bd2e6.jpg" srcset="/ryzhiy-theater-demo/materials/3e8780f59a0496c87a0efd509b12ea35fe29c9248d576d1c8525b26acb8bd2e6.jpg 1024w, /ryzhiy-theater-demo/materials/84c6cae818565c5c935ed7134961d2778c6fdc6c8be37b1cd32b44a8c1ee9086.jpg 600w, /ryzhiy-theater-demo/materials/368e638e54bd795252d84a08a62900de29874b8e312337f762338629c0ca0f9b.jpg 300w, /ryzhiy-theater-demo/materials/2172e120943fda53d3f54efdcd8fa69c3612ff77532e441c7c740f1c5e9d0373.jpg 1385w" width="560" /></a></p>
+<p>В день города, 6 сентября, был первый показ “Золушки”. Пригласили ребят из детского дома и из малообеспеченных семей. Дети в восторге, много смеялись, аплодировали, переживали за то, чтоб Золушку не разоблачили на балу. По окончании спектакля, долго фотографировались с героями.</p>
+<p><a href="/ryzhiy-theater-demo/materials/13ac5858d84c9934016e8abad705a9988c267e50a9a0f881265f1728ffbf98cb.jpg"><img alt="SONY DSC" loading="lazy" height="372" src="/ryzhiy-theater-demo/materials/905172e222fc0c145e241c17a7cc47d411699697cbd8ed2246739e9777822bd4.jpg" srcset="/ryzhiy-theater-demo/materials/905172e222fc0c145e241c17a7cc47d411699697cbd8ed2246739e9777822bd4.jpg 1024w, /ryzhiy-theater-demo/materials/7604f591a8013824145f260a78a371cabd7f4fa65d02f0ac3aaa103ca9843b93.jpg 601w, /ryzhiy-theater-demo/materials/0306c32b4a5f16f0f3e9cd1ee361a8f59e6f87330badf609e3926975e2e232ac.jpg 300w" width="560" /></a></p>
+<div><span><span>Самые свежие новости на нашей странице “ВКонтакте”</span></span></div>
+<div><a href="http://vk.com/">vk.com</a>›<a href="http://vk.com/club49608090">club49608090</a></div>
+<div> </div>
+<div>
+<div id="attachment_700"><a href="/ryzhiy-theater-demo/materials/2c924b4511c338f2152ca6c691d79bd6853b23478fe5f8772125ed61e59fcd22.jpg"><img alt="Кукольное шоу &quot;Затерянный мир&quot;.  20 апреля, в 12:00. " loading="lazy" height="325" src="/ryzhiy-theater-demo/materials/2c924b4511c338f2152ca6c691d79bd6853b23478fe5f8772125ed61e59fcd22.jpg" srcset="/ryzhiy-theater-demo/materials/2c924b4511c338f2152ca6c691d79bd6853b23478fe5f8772125ed61e59fcd22.jpg 575w, /ryzhiy-theater-demo/materials/68416664d1f8b115cb156655eff047c659d95bced94c22c22bde3285b348a058.jpg 300w" width="575" /></a><p id="caption-attachment-700">Кукольное шоу “Затерянный мир”. 25 мая, в 12:00.</p></div><p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><span>Эскизы к спектаклю  “Золушка”.</span></p>
+<p></p><div id="attachment_940"><a href="/ryzhiy-theater-demo/materials/f5a9dcac071a58adc8f250d0540f572b4b62f78b9934af2f4c756645dbc5c4b9.jpg"><img alt="Кукольная сказка &quot; Золушка&quot;.  Готовится премьера!" loading="lazy" height="932" src="/ryzhiy-theater-demo/materials/e721905f642a476c52b1df6943fdb3db6a339bd7a7abc13f9f6f8f3c424a286d.jpg" srcset="/ryzhiy-theater-demo/materials/e721905f642a476c52b1df6943fdb3db6a339bd7a7abc13f9f6f8f3c424a286d.jpg 615w, /ryzhiy-theater-demo/materials/9b473e3194cee6474bbd7208ca8da59b4bcf8dda99168c3710c556e38aa837b9.jpg 240w, /ryzhiy-theater-demo/materials/98fd204a03f360f4683fa3714a59842da09ac03e3c5d87cdb679e27d9a452524.jpg 180w, /ryzhiy-theater-demo/materials/f5a9dcac071a58adc8f250d0540f572b4b62f78b9934af2f4c756645dbc5c4b9.jpg 824w" width="560" /></a><p id="caption-attachment-940">Кукольная сказка ” Золушка”. Готовится премьера!</p></div><br />
+<div id="attachment_941"><a href="/ryzhiy-theater-demo/materials/8c21260d01db03c8bd50fbf4e2c2c352c7a8663ac5821f6b755b77ccb9440fb7.jpg"><img alt="Кукольная сказка &quot;Золушка&quot;. Скоро премьера!" loading="lazy" height="721" src="/ryzhiy-theater-demo/materials/8b58bdaee4700de3f4f87182e01ca4f94f3f76631b6afb782ed7c22782095af3.jpg" srcset="/ryzhiy-theater-demo/materials/8b58bdaee4700de3f4f87182e01ca4f94f3f76631b6afb782ed7c22782095af3.jpg 795w, /ryzhiy-theater-demo/materials/1170bfb60f8647b3694e90af92e39aaa4314c36b0bb215fd2eb668d2967c85dc.jpg 310w, /ryzhiy-theater-demo/materials/3759ad68724a2068c0b0c909df2460d437cd55dc96e33f9c127ad923682cc518.jpg 232w, /ryzhiy-theater-demo/materials/8c21260d01db03c8bd50fbf4e2c2c352c7a8663ac5821f6b755b77ccb9440fb7.jpg 1104w" width="560" /></a><p id="caption-attachment-941">Кукольная сказка “Золушка”. Скоро премьера!</p></div><br />
+<div id="attachment_945"><a href="/ryzhiy-theater-demo/materials/7bff1fe77ca35239fdd30c33da9f98e9b42eb291cf7b7010135cb65982726a85.jpg"><img alt="Кукольная сказка &quot; Золушка&quot;.  Готовится премьера!" loading="lazy" height="400" src="/ryzhiy-theater-demo/materials/edb47174f12a057a8318f8130b94e04fcf8178493b543b8249789ea9ae3cc6bb.jpg" srcset="/ryzhiy-theater-demo/materials/edb47174f12a057a8318f8130b94e04fcf8178493b543b8249789ea9ae3cc6bb.jpg 1024w, /ryzhiy-theater-demo/materials/d179f9aad73d9f50bbeccd62d51815bf6ace1544a053e5e01a982d5efe437c0a.jpg 558w, /ryzhiy-theater-demo/materials/6877dd1a29d100e93794ae3f9d40e404b33cd92c47003732002f88ce40eafdf4.jpg 300w" width="560" /></a><p id="caption-attachment-945">Кукольная сказка ” Золушка”. Готовится премьера!</p></div>
+<p></p>
+</div>
+<div>
+<p><br /><a href="/ryzhiy-theater-demo/materials/e7de58e5835b3e801066de578f6116b7022255d44477d82e4a09e5329f68aaf1.jpg"><img alt="123123" loading="lazy" height="395" src="/ryzhiy-theater-demo/materials/eef0331d02727713ec48f716852e0703010eba07f8d86231badeba0a8351a302.jpg" srcset="/ryzhiy-theater-demo/materials/eef0331d02727713ec48f716852e0703010eba07f8d86231badeba0a8351a302.jpg 1024w, /ryzhiy-theater-demo/materials/7f3757c02e0aae5e868c85ad00ee38f202a48979c1dafcba35c82b80085f651a.jpg 565w, /ryzhiy-theater-demo/materials/ce9bbce0350d5a085200bf9c992cdd58c5ad58e33e62d399112b27330e900101.jpg 300w, /ryzhiy-theater-demo/materials/e7de58e5835b3e801066de578f6116b7022255d44477d82e4a09e5329f68aaf1.jpg 1191w" width="560" /></a></p>
+</div>
+<div>Можно купить билеты онлайн с нашего сайта.</div>
+<div> </div>
+<div>Или:</div>
+<div> </div>
+<div>В кассе театра каждый день с 15:00 до 19:00.<br />А также в Кожухово: во всех магазинах  “Бибигон” ,</div>
+<div>в ТЦ  “Кожуховский” ( “Дикси”), 2-й  этаж,</div>
+<div>в магазине “Автозапчасти”, 2-й этаж, магазин “Колобок”.</div>
+<div>В Новокосино ТЦ  “Виктория”, 2-й этаж, магазин “Карапуз”.</div>
+<div> </div>
+<div>Телефон для справок: 8(926) 321-98-44</div> 1e:I[6327,[],"IconMark"]
+19:["$","article",null,{"className":"container programme-article article-news","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Хлебные крошки","children":[["$","a",null,{"children":"Главная","href":"/ryzhiy-theater-demo/"}],[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","a",null,{"children":"Публикации","href":"/ryzhiy-theater-demo/публикации/"}]],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Новогодние спектакли"}]]}],["$","div",null,{"className":"article-intro","children":[["$","header",null,{"className":"programme-heading","children":[["$","time",null,{"className":"byline","dateTime":"2026-08-31T11:00:37","children":"31 августа 2026 г."}],["$","h1",null,{"children":"Новогодние спектакли"}],false,"$undefined",false,false]}],false]}],false,["$","div",null,{"className":"reading-spread","id":"material","children":[["$","aside",null,{"className":"reading-margin","children":[["$","h2",null,{"children":"Публикации"}],["$","nav",null,{"aria-label":"Соседние материалы","children":[["$","a","/публикации/",{"children":"Все публикации","href":"/ryzhiy-theater-demo/публикации/"}],["$","a","/архив/",{"children":"Архив театра","href":"/ryzhiy-theater-demo/архив/"}]]}]]}],["$","div",null,{"className":"reading-column","children":[false,false,["$","div",null,{"className":"rich-content","dangerouslySetInnerHTML":{"__html":"$1c"}}]]}]]}],"$L1d"]}]
+1d:["$","nav",null,{"className":"article-end","aria-label":"Продолжить просмотр","children":[["$","a",null,{"children":"Публикации","href":"/ryzhiy-theater-demo/публикации/"}],["$","a",null,{"children":"Ближайшие показы","href":"/ryzhiy-theater-demo/afisha/"}]]}]
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:[["$","title","0",{"children":"Новогодние спектакли"}],["$","meta","1",{"name":"description","content":"Репертуар на декабрь и Новогодние спектакли. Билеты уже в продаже на главной странице сайте. Ближе к Новому году цены могут подрасти. Репертуар на декабрь:05 декабря в 12:00 «Гуси-Лебеди» (4+)06 декабря в 12:00 «Красная шапочка» (3+). Премьера!12 декабря в 12:00 «Муха-Цокотуха» (4+)13 декабря в 19:00 «Три поросёнка» (3+)19 декабря в 12:00 «По щучьему веленью» (3+)Ёлка с"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/ryzhiy-theater-demo/favicon.ico?dce426d0b354ae36","type":"image/x-icon","sizes":"16x16"}],["$","link","4",{"rel":"icon","href":"/ryzhiy-theater-demo/icon.svg?89bda9a526734ca1","type":"image/svg+xml","sizes":"any"}],["$","$L1e","5",{}]]
+1b:null

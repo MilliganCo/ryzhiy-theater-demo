@@ -1,0 +1,107 @@
+1:"$Sreact.fragment"
+2:I[4827,[],""]
+3:I[9940,[],""]
+8:"static/chunks/app/(public)/layout-4cc7d50a1200c095.js"
+9:"MobileNavigation"
+a:I[4540,["816","$8"],"$9"]
+15:"ViewportBoundary"
+16:I[7202,[],"$15"]
+17:"MetadataBoundary"
+18:I[7202,[],"$17"]
+19:"$Sreact.suspense"
+1a:I[6327,[],"IconMark"]
+:HL["/ryzhiy-theater-demo/_next/static/css/fa1040c009643ed5.css","style"]
+5:X
+5:C
+6:X
+12:[["children",{"s":"__PAGE__","h":160,"d":{"r":"$L13","p":"$@14","v":null,"s":"$6"}}]]
+f:[["children",{"s":{"n":"slug","t":"oc","k":"revizor","s":["_not-found","_global-error","favicon.ico","icon.svg"]},"h":65632,"d":{"r":"$L10","p":"$@11","v":"$5","s":"$6"},"c":"$Q12"}]]
+7:[["children",{"s":"(public)","h":131184,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ryzhiy-theater-demo/_next/static/css/fa1040c009643ed5.css","precedence":"next"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":["$","div",null,{"className":"public-site","children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"К содержанию"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"header-inner","children":[["$","a",null,{"className":"wordmark","aria-label":"Рыжий Театр — главная","children":[["$","span",null,{"className":"wordmark-main","children":["Рыжий ",["$","span",null,{"className":"wordmark-smile","children":":)"}]]}],["$","span",null,{"className":"wordmark-sub","children":"Театр · Москва"}]],"href":"/ryzhiy-theater-demo/"}],["$","nav",null,{"className":"desktop-nav","aria-label":"Основная навигация","children":[[["$","a","/afisha/",{"children":"Афиша","href":"/ryzhiy-theater-demo/afisha/"}],["$","a","/репертуар/",{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a","/школа/",{"children":"Школа","href":"/ryzhiy-theater-demo/школа/"}],["$","a","/о-театре/",{"children":"О театре","href":"/ryzhiy-theater-demo/о-театре/"}],["$","a","/фото/",{"children":"Фото","href":"/ryzhiy-theater-demo/фото/"}],["$","a","/публикации/",{"children":"Публикации","href":"/ryzhiy-theater-demo/публикации/"}],["$","a","/kontakty/",{"children":"Контакты","href":"/ryzhiy-theater-demo/kontakty/"}]],["$","a",null,{"children":"Архив","href":"/ryzhiy-theater-demo/архив/"}]]}],["$","div",null,{"className":"header-actions","children":[["$","span",null,{"className":"ticket-launch","children":["$","a",null,{"className":"header-ticket","href":"https://redtheater.ru/?afisha_open_widget=1","aria-label":"Купить билет онлайн","children":"Билеты"}]}],["$","$La",null,{}]]}]]}]}],["$","main",null,{"id":"main-content","className":"site-main","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","section",null,{"className":"container not-found-page","children":[["$","p",null,{"className":"section-kicker","children":"404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","p",null,{"children":"Найти спектакль можно в афише, а старую публикацию — в архиве театра."}],["$","div",null,{"children":[["$","a",null,{"className":"button button-primary","children":"Открыть афишу","href":"/ryzhiy-theater-demo/afisha/"}],["$","a",null,{"children":"Найти в архиве","href":"/ryzhiy-theater-demo/архив/"}]]}]]}],[]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-brand-block","children":[["$","a",null,{"className":"footer-wordmark","children":"Рыжий Театр","href":"/ryzhiy-theater-demo/"}],["$","address",null,{"children":["Москва · улица Руднёвка, 4",["$","br",null,{}],"Камерный зал на 50 мест"]}]]}],["$","div",null,{"className":"footer-contact","children":[["$","h2",null,{"children":"Касса и адрес"}],["$","a",null,{"href":"tel:+79263219844","children":"8 (926) 321-98-44"}],["$","a",null,{"href":"mailto:r-teatr@yandex.ru","children":"r-teatr@yandex.ru"}],["$","span",null,{"children":"Будни 15:00–20:00 · суббота с 12:00 · воскресенье с 11:00"}],"$Lb"]}],"$Lc"]}],"$Ld"]}]]}]}]}]]}],"p":"$@e","v":null,"s":"$6"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@4","v":"$5","s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Спектакль «Ревизор»"}],["$","meta","1",{"name":"description","content":"Знаменитая и вечно живая комедия Николая Васильевича Гоголя. Водевильная лёгкость, беспощадная комичность персонажей, музыкальность и страх перед высшим Ревизором, всё это части нашего спектакля, решённого в классическом стиле, следуя «духу и букве» авторского замысла. «Ревизор» – это выставка вечных характеров и поступков, искрометный юмор и беспощадная сатира. Костюмы к нашему спектаклю сделаны талантливым мастером по"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/ryzhiy-theater-demo/favicon.ico?dce426d0b354ae36","type":"image/x-icon","sizes":"16x16"}],["$","link","4",{"rel":"icon","href":"/ryzhiy-theater-demo/icon.svg?89bda9a526734ca1","type":"image/svg+xml","sizes":"any"}],["$","$L1a","5",{}]]}]}],null]}],null]}],"p":"$@1b","v":null,"s":"$6"}},"a":"$@1c","u":"$@1d","b":"WsJmgieTSCtyVDy-ZGu0g"}
+1e:"static/chunks/app/(public)/%5B%5B...slug%5D%5D/page-510d546a9a6a46fa.js"
+1f:I[3135,["89","$1e"],"PosterDeck"]
+b:["$","a",null,{"children":"Как добраться","href":"/ryzhiy-theater-demo/kontakty/"}]
+c:["$","nav",null,{"className":"footer-links","aria-label":"Разделы театра","children":[["$","h2",null,{"children":"Разделы"}],["$","a",null,{"children":"Афиша","href":"/ryzhiy-theater-demo/afisha/"}],["$","a",null,{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a",null,{"children":"Актёрская школа","href":"/ryzhiy-theater-demo/школа/"}],["$","a",null,{"children":"О театре","href":"/ryzhiy-theater-demo/о-театре/"}],["$","a",null,{"children":"Фотогалерея","href":"/ryzhiy-theater-demo/фото/"}],["$","a",null,{"children":"Медиатека","href":"/ryzhiy-theater-demo/media-library/"}],["$","a",null,{"children":"Цены и льготы","href":"/ryzhiy-theater-demo/ceny/"}],["$","a",null,{"children":"Франшиза театра","href":"/ryzhiy-theater-demo/franchise/"}],["$","a",null,{"children":"Публикации","href":"/ryzhiy-theater-demo/публикации/"}],["$","a",null,{"children":"Архив сайта","href":"/ryzhiy-theater-demo/архив/"}]]}]
+d:["$","p",null,{"className":"copyright","children":"© «Рыжий Театр» · Фотографии и материалы принадлежат их правообладателям."}]
+10:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}]
+20:T10ab,
+<p><img alt="" loading="lazy" height="374" src="/ryzhiy-theater-demo/materials/215c6f3f9520a1d2a7eb4867b32b4f6f5dc985159659fde59e90e6e86c5520c1.jpg" srcset="/ryzhiy-theater-demo/materials/215c6f3f9520a1d2a7eb4867b32b4f6f5dc985159659fde59e90e6e86c5520c1.jpg 1024w, /ryzhiy-theater-demo/materials/f4c09dd7190297e45f0fa9a584c7c596ee6cd3f5712c2242cc3b339b7265de6e.jpg 600w, /ryzhiy-theater-demo/materials/482fd6df198a843a1ba1a1a0495d018230ccac296f751201dec55abab430fb3a.jpg 300w, /ryzhiy-theater-demo/materials/7667625bb1c959ac91bd7d3ae58af5d400def3777545c705ec3c85a8a980571c.jpg 768w" width="560" /></p>
+<p>Знаменитая и вечно живая комедия Николая Васильевича Гоголя. Водевильная лёгкость, беспощадная комичность персонажей, музыкальность и страх перед высшим Ревизором, всё это части нашего спектакля, решённого в классическом стиле, следуя «духу и букве» авторского замысла. «Ревизор» – это выставка вечных характеров и поступков, искрометный юмор и беспощадная сатира. Костюмы к нашему спектаклю сделаны талантливым мастером по лекалам 30-х годов 19-го века. Главную роль Хлестакова Ивана Александровича исполняет руководитель театра Роман Светлов.</p>
+<p>Продолжительность 1.20 минут. (Возраст 10+).<br />
+Автор Николай Гоголь,<br />
+Режиссёр Роман Светлов,<br />
+Художник и мастер по костюмам Мария Шевченко,<br />
+Хореография Владимир Беляйкин.<br />
+В ролях: Ксения Бевзова, Алексей Нечепуренко, Роман Светлов, Сергей Куликов, Андрей Кочинов, Евгений Шатов, Яна Данченко , Анна Горлова, Владимир Баклан, Екатерина Бизяева, Валерий Надоленко.</p>
+<p><img alt="" loading="lazy" height="374" src="/ryzhiy-theater-demo/materials/96199c20418b4eb768a5da2ec42507d64672d7663a496d814ebf0dbf8eb80b39.jpg" srcset="/ryzhiy-theater-demo/materials/96199c20418b4eb768a5da2ec42507d64672d7663a496d814ebf0dbf8eb80b39.jpg 1024w, /ryzhiy-theater-demo/materials/4b43fac849dc2b11cfd3c3ed6e24f88dffd62777251acc5c3c1c0997eeb2ab46.jpg 600w, /ryzhiy-theater-demo/materials/690d7c26e7404dee2bb579d598ae1c708ac816c2deecddcd2b4d4ccf61253608.jpg 300w, /ryzhiy-theater-demo/materials/db4559107e320a5f855a4240d80f1b004a26e1f3ff0d9ac886b0e999255ce6a2.jpg 768w" width="560" /></p>
+
+
+<div>
+<div id="huge_it_loading_image_13"> <img alt="" loading="lazy" height="100" src="/ryzhiy-theater-demo/materials/6bb94f3a69669fba548dbba9a87dee259698b2bf339f3ed430e35a8a8ab49811.gif" width="100" /> </div>
+<div>
+
+<div>
+<div>
+<div id="huge_it_dots_0_13"></div>
+<div id="huge_it_dots_1_13"></div>
+<div id="huge_it_dots_2_13"></div>
+</div>
+<a href="#" id="huge_it_slideshow_left_13">
+<div id="huge_it_slideshow_left-ico_13">
+<div><i></i></div></div>
+</a>
+<a href="#" id="huge_it_slideshow_right_13">
+<div id="huge_it_slideshow_right-ico_13">
+<div><i></i></div></div>
+</a>
+</div>
+
+<div id="huge_it_slideshow_image_container_13">
+<div>
+<div>
+<ul>
+<li id="image_id_13_0">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_13_0" src="/ryzhiy-theater-demo/materials/20e2f8e41021a313642c17706e0060b3d8c250ea0581a9e5dff1fa06c57528a4.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_13_1">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_13_1" src="/ryzhiy-theater-demo/materials/1e4c66e46b66384da98195e9981518b4a42d3a8efca6a2c69efe9c595d12e758.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_13_2">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_13_2" src="/ryzhiy-theater-demo/materials/f97442cd931fcbf020fcaec9b2375236e8284490dee08ac44918b1a9b2cc740e.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+13:["$","$1","c",{"children":[["$","article",null,{"className":"container programme-article article-show","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Хлебные крошки","children":[["$","a",null,{"children":"Главная","href":"/ryzhiy-theater-demo/"}],[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","a",null,{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}]],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Спектакль «Ревизор»"}]]}],["$","div",null,{"className":"production-spread","children":[["$","header",null,{"className":"programme-heading","children":[false,["$","h1",null,{"children":"Ревизор"}],[false,false,["$","div",null,{"className":"booking-actions","children":[["$","a",null,{"className":"button button-primary","children":"Посмотреть афишу","href":"/ryzhiy-theater-demo/afisha/"}],["$","a",null,{"className":"button button-text","href":"#material","children":"О спектакле"}]]}]],"$undefined",false,false]}],["$","$L1f","1978",{"production":{"title":"Ревизор","path":"/revizor/","photos":[{"url":"/ryzhiy-theater-demo/posters/motion/1978/photo-215c6f3f9520a1.webp","alt":"Артисты «Ревизора» на сцене.","source":"https://redtheater.ru/revizor/","camera":{"x":50,"y":50,"scales":[1,1.025,1.05]},"original":"/ryzhiy-theater-demo/materials/215c6f3f9520a1d2a7eb4867b32b4f6f5dc985159659fde59e90e6e86c5520c1.jpg"},{"url":"/ryzhiy-theater-demo/posters/motion/1978/photo-96199c20418b4e.webp","alt":"Ансамбль спектакля в финале.","source":"https://redtheater.ru/revizor/","camera":{"x":50,"y":50,"scales":[1,1.025,1.05]},"original":"/ryzhiy-theater-demo/materials/96199c20418b4eb768a5da2ec42507d64672d7663a496d814ebf0dbf8eb80b39.jpg"}],"artwork":"/ryzhiy-theater-demo/posters/motion/1978/frame-0.webp","frames":["/ryzhiy-theater-demo/posters/motion/1978/frame-0.webp","/ryzhiy-theater-demo/posters/motion/1978/frame-1.webp","/ryzhiy-theater-demo/posters/motion/1978/frame-2.webp"],"artworkRatio":2,"loop":"/ryzhiy-theater-demo/posters/motion/1978/puppet-loop.webp","previewLoop":"/ryzhiy-theater-demo/posters/motion/1978/preview-loop.webp","previewStill":"/ryzhiy-theater-demo/posters/motion/1978/preview-still.webp"},"priority":true}]]}],false,["$","div",null,{"className":"reading-spread","id":"material","children":[["$","aside",null,{"className":"reading-margin","children":[["$","h2",null,{"children":"Репертуар"}],["$","nav",null,{"aria-label":"Соседние материалы","children":[["$","a","/репертуар/",{"children":"Все спектакли","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a","/afisha/",{"children":"Календарь показов","href":"/ryzhiy-theater-demo/afisha/"}],["$","a","/как-купить-билет/",{"children":"Как купить билет","href":"/ryzhiy-theater-demo/как-купить-билет/"}]]}]]}],["$","div",null,{"className":"reading-column","children":["",false,["$","div",null,{"className":"rich-content","dangerouslySetInnerHTML":{"__html":"$20"}}]]}]]}],"$L21"]}],["$L22"],"$L23"]}]
+24:I[7202,[],"OutletBoundary"]
+:HL["/ryzhiy-theater-demo/_next/static/css/17c7c9b302d13b27.css","style"]
+6:300
+21:["$","nav",null,{"className":"article-end","aria-label":"Продолжить просмотр","children":[["$","a",null,{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a",null,{"children":"Ближайшие показы","href":"/ryzhiy-theater-demo/afisha/"}]]}]
+22:["$","link","0",{"rel":"stylesheet","href":"/ryzhiy-theater-demo/_next/static/css/17c7c9b302d13b27.css","precedence":"next"}]
+23:["$","$L24",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+1d:true
+6:C
+25:null
+1c:0
+11:"$undefined"
+e:"$undefined"
+4:"$undefined"
+1b:"$undefined"
+14:"$undefined"

@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+2:I[4827,[],""]
+3:I[9940,[],""]
+8:"static/chunks/app/(public)/layout-4cc7d50a1200c095.js"
+9:"MobileNavigation"
+a:I[4540,["816","$8"],"$9"]
+15:"ViewportBoundary"
+16:I[7202,[],"$15"]
+17:"MetadataBoundary"
+18:I[7202,[],"$17"]
+19:"$Sreact.suspense"
+1a:I[6327,[],"IconMark"]
+:HL["/ryzhiy-theater-demo/_next/static/css/fa1040c009643ed5.css","style"]
+5:X
+5:C
+6:X
+12:[["children",{"s":"__PAGE__","h":160,"d":{"r":"$L13","p":"$@14","v":null,"s":"$6"}}]]
+f:[["children",{"s":{"n":"slug","t":"oc","k":"po_schuchemu_velenyu","s":["_not-found","_global-error","favicon.ico","icon.svg"]},"h":65632,"d":{"r":"$L10","p":"$@11","v":"$5","s":"$6"},"c":"$Q12"}]]
+7:[["children",{"s":"(public)","h":131184,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ryzhiy-theater-demo/_next/static/css/fa1040c009643ed5.css","precedence":"next"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":["$","div",null,{"className":"public-site","children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"К содержанию"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"header-inner","children":[["$","a",null,{"className":"wordmark","aria-label":"Рыжий Театр — главная","children":[["$","span",null,{"className":"wordmark-main","children":["Рыжий ",["$","span",null,{"className":"wordmark-smile","children":":)"}]]}],["$","span",null,{"className":"wordmark-sub","children":"Театр · Москва"}]],"href":"/ryzhiy-theater-demo/"}],["$","nav",null,{"className":"desktop-nav","aria-label":"Основная навигация","children":[[["$","a","/afisha/",{"children":"Афиша","href":"/ryzhiy-theater-demo/afisha/"}],["$","a","/репертуар/",{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a","/школа/",{"children":"Школа","href":"/ryzhiy-theater-demo/школа/"}],["$","a","/о-театре/",{"children":"О театре","href":"/ryzhiy-theater-demo/о-театре/"}],["$","a","/фото/",{"children":"Фото","href":"/ryzhiy-theater-demo/фото/"}],["$","a","/публикации/",{"children":"Публикации","href":"/ryzhiy-theater-demo/публикации/"}],["$","a","/kontakty/",{"children":"Контакты","href":"/ryzhiy-theater-demo/kontakty/"}]],["$","a",null,{"children":"Архив","href":"/ryzhiy-theater-demo/архив/"}]]}],["$","div",null,{"className":"header-actions","children":[["$","span",null,{"className":"ticket-launch","children":["$","a",null,{"className":"header-ticket","href":"https://redtheater.ru/?afisha_open_widget=1","aria-label":"Купить билет онлайн","children":"Билеты"}]}],["$","$La",null,{}]]}]]}]}],["$","main",null,{"id":"main-content","className":"site-main","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","section",null,{"className":"container not-found-page","children":[["$","p",null,{"className":"section-kicker","children":"404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","p",null,{"children":"Найти спектакль можно в афише, а старую публикацию — в архиве театра."}],["$","div",null,{"children":[["$","a",null,{"className":"button button-primary","children":"Открыть афишу","href":"/ryzhiy-theater-demo/afisha/"}],["$","a",null,{"children":"Найти в архиве","href":"/ryzhiy-theater-demo/архив/"}]]}]]}],[]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-brand-block","children":[["$","a",null,{"className":"footer-wordmark","children":"Рыжий Театр","href":"/ryzhiy-theater-demo/"}],["$","address",null,{"children":["Москва · улица Руднёвка, 4",["$","br",null,{}],"Камерный зал на 50 мест"]}]]}],["$","div",null,{"className":"footer-contact","children":[["$","h2",null,{"children":"Касса и адрес"}],["$","a",null,{"href":"tel:+79263219844","children":"8 (926) 321-98-44"}],["$","a",null,{"href":"mailto:r-teatr@yandex.ru","children":"r-teatr@yandex.ru"}],["$","span",null,{"children":"Будни 15:00–20:00 · суббота с 12:00 · воскресенье с 11:00"}],"$Lb"]}],"$Lc"]}],"$Ld"]}]]}]}]}]]}],"p":"$@e","v":null,"s":"$6"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@4","v":"$5","s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Спектакль «По щучьему веленью»"}],["$","meta","1",{"name":"description","content":"Интерактивный спектакль по мотивам русской народной сказки. Песни, танцы, остроумный сюжет, яркие декорации – решённые в многоцветной лоскутной технике. Дети активно участвуют в спектакле. Вместе с героями, они будут рубить дрова, носить воду, строить терем для принцессы и учить уму-разуму несговорчивого царя. Продолжительность 35 мин. (Возраст 3+). Режиссёр Ксения Бевзова, автор Олеся Емельянова, художник Мария"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/ryzhiy-theater-demo/favicon.ico?dce426d0b354ae36","type":"image/x-icon","sizes":"16x16"}],["$","link","4",{"rel":"icon","href":"/ryzhiy-theater-demo/icon.svg?89bda9a526734ca1","type":"image/svg+xml","sizes":"any"}],["$","$L1a","5",{}]]}]}],null]}],null]}],"p":"$@1b","v":null,"s":"$6"}},"a":"$@1c","u":"$@1d","b":"WsJmgieTSCtyVDy-ZGu0g"}
+1e:"static/chunks/app/(public)/%5B%5B...slug%5D%5D/page-510d546a9a6a46fa.js"
+1f:I[3135,["89","$1e"],"PosterDeck"]
+b:["$","a",null,{"children":"Как добраться","href":"/ryzhiy-theater-demo/kontakty/"}]
+c:["$","nav",null,{"className":"footer-links","aria-label":"Разделы театра","children":[["$","h2",null,{"children":"Разделы"}],["$","a",null,{"children":"Афиша","href":"/ryzhiy-theater-demo/afisha/"}],["$","a",null,{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a",null,{"children":"Актёрская школа","href":"/ryzhiy-theater-demo/школа/"}],["$","a",null,{"children":"О театре","href":"/ryzhiy-theater-demo/о-театре/"}],["$","a",null,{"children":"Фотогалерея","href":"/ryzhiy-theater-demo/фото/"}],["$","a",null,{"children":"Медиатека","href":"/ryzhiy-theater-demo/media-library/"}],["$","a",null,{"children":"Цены и льготы","href":"/ryzhiy-theater-demo/ceny/"}],["$","a",null,{"children":"Франшиза театра","href":"/ryzhiy-theater-demo/franchise/"}],["$","a",null,{"children":"Публикации","href":"/ryzhiy-theater-demo/публикации/"}],["$","a",null,{"children":"Архив сайта","href":"/ryzhiy-theater-demo/архив/"}]]}]
+d:["$","p",null,{"className":"copyright","children":"© «Рыжий Театр» · Фотографии и материалы принадлежат их правообладателям."}]
+10:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}]
+20:T10da,
+<p>Интерактивный спектакль по мотивам русской народной сказки. Песни, танцы, остроумный сюжет, яркие декорации – решённые в многоцветной лоскутной технике. Дети активно участвуют в спектакле. Вместе с героями, они будут рубить дрова, носить воду, строить терем для принцессы и учить уму-разуму несговорчивого царя.</p>
+<p>Продолжительность 35 мин. (Возраст 3+). Режиссёр Ксения Бевзова, автор Олеся Емельянова, художник Мария Шевченко, куклы Елена и Татьяна Дороховы. Художественный руководитель проекта Роман Светлов.</p>
+<p><img alt="" loading="lazy" height="404" src="/ryzhiy-theater-demo/materials/c3b34b14e2bb242fd862c2be62f18b4c25517c06c4cc4fcbd6cbe1554a808846.jpg" srcset="/ryzhiy-theater-demo/materials/c3b34b14e2bb242fd862c2be62f18b4c25517c06c4cc4fcbd6cbe1554a808846.jpg 1024w, /ryzhiy-theater-demo/materials/d9fe358921ba74623765d2322345b35fdb1d6f554036c41235a57b53b9694835.jpg 554w, /ryzhiy-theater-demo/materials/090446aca68863bea2f9a82ba06a1f08e1b4f53f62d78ada601b383cba74bb65.jpg 300w, /ryzhiy-theater-demo/materials/39f572e5ffaeb3b6aab496d11c4f23fe60d25f98f954369bcc163ca6c873c98c.jpg 1200w" width="560" /></p>
+
+
+<div>
+<div id="huge_it_loading_image_5"> <img alt="" loading="lazy" height="100" src="/ryzhiy-theater-demo/materials/6bb94f3a69669fba548dbba9a87dee259698b2bf339f3ed430e35a8a8ab49811.gif" width="100" /> </div>
+<div>
+
+<div>
+<div>
+<div id="huge_it_dots_0_5"></div>
+<div id="huge_it_dots_1_5"></div>
+<div id="huge_it_dots_2_5"></div>
+<div id="huge_it_dots_3_5"></div>
+<div id="huge_it_dots_4_5"></div>
+<div id="huge_it_dots_5_5"></div>
+<div id="huge_it_dots_6_5"></div>
+<div id="huge_it_dots_7_5"></div>
+</div>
+<a href="#" id="huge_it_slideshow_left_5">
+<div id="huge_it_slideshow_left-ico_5">
+<div><i></i></div></div>
+</a>
+<a href="#" id="huge_it_slideshow_right_5">
+<div id="huge_it_slideshow_right-ico_5">
+<div><i></i></div></div>
+</a>
+</div>
+
+<div id="huge_it_slideshow_image_container_5">
+<div>
+<div>
+<ul>
+<li id="image_id_5_0">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_5_0" src="/ryzhiy-theater-demo/materials/ad563349b09db9fd10566aa8f1b9fc6c0b73e9a044ccacd2b565b1c1eea0f28e.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_5_1">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_5_1" src="/ryzhiy-theater-demo/materials/817b4fa2ddb3fb0815402b7c958ca22c3f1455267272d648f4738c9865121508.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_5_2">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_5_2" src="/ryzhiy-theater-demo/materials/39f572e5ffaeb3b6aab496d11c4f23fe60d25f98f954369bcc163ca6c873c98c.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_5_3">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_5_3" src="/ryzhiy-theater-demo/materials/f0884cc93e0e1494f5c2c3048380ff4da304361e3421bd784627e57b44015b88.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_5_4">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_5_4" src="/ryzhiy-theater-demo/materials/7cc47464b4059927ace91656f1f8f399a1381015241e13bfa886b3a1312c6b73.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_5_5">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_5_5" src="/ryzhiy-theater-demo/materials/3574ae242c142508cad500ea11f4ed1f52e7ccefe1c792954aa7a7cda3687f04.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_5_6">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_5_6" src="/ryzhiy-theater-demo/materials/0cb2e5ece6cfbfa481bcffc78e8637278debd1cf5a1017629cabff0948cc7338.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_5_7">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_5_7" src="/ryzhiy-theater-demo/materials/30e9ce83429b3bcc7351a1856bd0e5172d395c27cceaf947ab13721c7272784b.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+<p><a href="/ryzhiy-theater-demo/materials/7cc47464b4059927ace91656f1f8f399a1381015241e13bfa886b3a1312c6b73.jpg"> </a></p>
+13:["$","$1","c",{"children":[["$","article",null,{"className":"container programme-article article-show","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Хлебные крошки","children":[["$","a",null,{"children":"Главная","href":"/ryzhiy-theater-demo/"}],[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","a",null,{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}]],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Спектакль «По щучьему веленью»"}]]}],["$","div",null,{"className":"production-spread","children":[["$","header",null,{"className":"programme-heading","children":[false,["$","h1",null,{"children":"По щучьему веленью"}],[false,["$","div",null,{"className":"performance-times","id":"show-dates","children":[["$","h2",null,{"children":"Ближайшие показы"}],[["$","div","2026-12-1912:00",{"children":[["$","time",null,{"dateTime":"2026-12-19T12:00","children":["19 декабря"," ",["$","b",null,{"children":"12:00"}]]}],["$","span",null,{"children":"3+"}]]}]]]}],[["$","div",null,{"className":"booking-actions","children":[["$","span",null,{"className":"ticket-launch","children":["$","a",null,{"className":"button button-primary","href":"https://redtheater.ru/?afisha_open_widget=1","aria-label":"Купить билет онлайн","children":"Купить билет онлайн"}]}],["$","a",null,{"className":"button button-text","href":"tel:+79263219844","children":"Бронь по телефону"}]]}],["$","a",null,{"className":"read-play","href":"#material","children":"О спектакле"}]]],"$undefined",false,false]}],["$","$L1f","1840",{"production":{"title":"По щучьему веленью","path":"/po_schuchemu_velenyu/","photos":[{"url":"/ryzhiy-theater-demo/posters/motion/1840/photo-7f69e10f694c5e.webp","alt":"Актёр и куклы у декорации в сцене «По щучьему веленью».","source":"https://redtheater.ru/po_schuchemu_velenyu/","camera":{"x":47,"y":52,"scales":[1,1.05,1.1]},"original":"/ryzhiy-theater-demo/materials/7f69e10f694c5e10d5716dc2844395881daac02d11f3e9da0137470d00ec63ff.jpg"},{"url":"/ryzhiy-theater-demo/posters/motion/1840/photo-5369d50511a999.webp","alt":"Артист играет на балалайке в сцене спектакля «По щучьему веленью».","source":"https://redtheater.ru/po_schuchemu_velenyu/","camera":{"x":53,"y":53,"scales":[1,1.05,1.12]},"original":"/ryzhiy-theater-demo/materials/5369d50511a999d778da1b552347430a6c818db09a8ee51eadc0eea6b2df592a.jpg"},{"url":"/ryzhiy-theater-demo/posters/motion/1840/photo-1f96e11fd9f150.webp","alt":"Артисты разыгрывают танцевальную сцену спектакля «По щучьему веленью».","source":"https://redtheater.ru/po_schuchemu_velenyu/","camera":{"x":56,"y":48,"scales":[1,1.04,1.08]},"original":"/ryzhiy-theater-demo/materials/1f96e11fd9f1508a936ae175221769dc62b1f780ab38ec2fd9815514c7bf9a72.jpg"}],"artwork":"/ryzhiy-theater-demo/posters/motion/1840/frame-0.webp","frames":["/ryzhiy-theater-demo/posters/motion/1840/frame-0.webp","/ryzhiy-theater-demo/posters/motion/1840/frame-1.webp","/ryzhiy-theater-demo/posters/motion/1840/frame-2.webp"],"loop":"/ryzhiy-theater-demo/posters/motion/1840/puppet-loop.webp","previewLoop":"/ryzhiy-theater-demo/posters/motion/1840/preview-loop.webp","previewStill":"/ryzhiy-theater-demo/posters/motion/1840/preview-still.webp"},"priority":true}]]}],false,["$","div",null,{"className":"reading-spread","id":"material","children":[["$","aside",null,{"className":"reading-margin","children":[["$","h2",null,{"children":"Репертуар"}],["$","nav",null,{"aria-label":"Соседние материалы","children":[["$","a","/репертуар/",{"children":"Все спектакли","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a","/afisha/",{"children":"Календарь показов","href":"/ryzhiy-theater-demo/afisha/"}],["$","a","/как-купить-билет/",{"children":"Как купить билет","href":"/ryzhiy-theater-demo/как-купить-билет/"}]]}]]}],["$","div",null,{"className":"reading-column","children":["",false,["$","div",null,{"className":"rich-content","dangerouslySetInnerHTML":{"__html":"$20"}}]]}]]}],"$L21"]}],["$L22"],"$L23"]}]
+24:I[7202,[],"OutletBoundary"]
+:HL["/ryzhiy-theater-demo/_next/static/css/17c7c9b302d13b27.css","style"]
+6:300
+21:["$","nav",null,{"className":"article-end","aria-label":"Продолжить просмотр","children":[["$","a",null,{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a",null,{"children":"Ближайшие показы","href":"/ryzhiy-theater-demo/afisha/"}]]}]
+22:["$","link","0",{"rel":"stylesheet","href":"/ryzhiy-theater-demo/_next/static/css/17c7c9b302d13b27.css","precedence":"next"}]
+23:["$","$L24",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+1d:true
+6:C
+25:null
+1c:0
+11:"$undefined"
+e:"$undefined"
+4:"$undefined"
+1b:"$undefined"
+14:"$undefined"

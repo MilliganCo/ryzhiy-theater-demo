@@ -1,0 +1,7 @@
+:HL["/ryzhiy-theater-demo/_next/static/css/fa1040c009643ed5.css","style"]
+:HL["/ryzhiy-theater-demo/_next/static/css/17c7c9b302d13b27.css","style"]
+:HL["/ryzhiy-theater-demo/materials/3e8780f59a0496c87a0efd509b12ea35fe29c9248d576d1c8525b26acb8bd2e6.jpg","image",{"fetchPriority":"high"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"oc","k":"about","s":["_not-found","_global-error","favicon.ico","icon.svg"]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"(public)","h":131184,"c":"$Q2"}]]
+0:{"b":"WsJmgieTSCtyVDy-ZGu0g","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

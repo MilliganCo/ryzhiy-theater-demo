@@ -1,0 +1,125 @@
+1:"$Sreact.fragment"
+2:I[4827,[],""]
+3:I[9940,[],""]
+8:"static/chunks/app/(public)/layout-4cc7d50a1200c095.js"
+9:"MobileNavigation"
+a:I[4540,["816","$8"],"$9"]
+15:"ViewportBoundary"
+16:I[7202,[],"$15"]
+17:"MetadataBoundary"
+18:I[7202,[],"$17"]
+19:"$Sreact.suspense"
+1a:I[6327,[],"IconMark"]
+:HL["/ryzhiy-theater-demo/_next/static/css/fa1040c009643ed5.css","style"]
+5:X
+5:C
+6:X
+12:[["children",{"s":"__PAGE__","h":160,"d":{"r":"$L13","p":"$@14","v":null,"s":"$6"}}]]
+f:[["children",{"s":{"n":"slug","t":"oc","k":"samye_pervye_skazki","s":["_not-found","_global-error","favicon.ico","icon.svg"]},"h":65632,"d":{"r":"$L10","p":"$@11","v":"$5","s":"$6"},"c":"$Q12"}]]
+7:[["children",{"s":"(public)","h":131184,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ryzhiy-theater-demo/_next/static/css/fa1040c009643ed5.css","precedence":"next"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":["$","div",null,{"className":"public-site","children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"К содержанию"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"header-inner","children":[["$","a",null,{"className":"wordmark","aria-label":"Рыжий Театр — главная","children":[["$","span",null,{"className":"wordmark-main","children":["Рыжий ",["$","span",null,{"className":"wordmark-smile","children":":)"}]]}],["$","span",null,{"className":"wordmark-sub","children":"Театр · Москва"}]],"href":"/ryzhiy-theater-demo/"}],["$","nav",null,{"className":"desktop-nav","aria-label":"Основная навигация","children":[[["$","a","/afisha/",{"children":"Афиша","href":"/ryzhiy-theater-demo/afisha/"}],["$","a","/репертуар/",{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a","/школа/",{"children":"Школа","href":"/ryzhiy-theater-demo/школа/"}],["$","a","/о-театре/",{"children":"О театре","href":"/ryzhiy-theater-demo/о-театре/"}],["$","a","/фото/",{"children":"Фото","href":"/ryzhiy-theater-demo/фото/"}],["$","a","/публикации/",{"children":"Публикации","href":"/ryzhiy-theater-demo/публикации/"}],["$","a","/kontakty/",{"children":"Контакты","href":"/ryzhiy-theater-demo/kontakty/"}]],["$","a",null,{"children":"Архив","href":"/ryzhiy-theater-demo/архив/"}]]}],["$","div",null,{"className":"header-actions","children":[["$","span",null,{"className":"ticket-launch","children":["$","a",null,{"className":"header-ticket","href":"https://redtheater.ru/?afisha_open_widget=1","aria-label":"Купить билет онлайн","children":"Билеты"}]}],["$","$La",null,{}]]}]]}]}],["$","main",null,{"id":"main-content","className":"site-main","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","section",null,{"className":"container not-found-page","children":[["$","p",null,{"className":"section-kicker","children":"404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","p",null,{"children":"Найти спектакль можно в афише, а старую публикацию — в архиве театра."}],["$","div",null,{"children":[["$","a",null,{"className":"button button-primary","children":"Открыть афишу","href":"/ryzhiy-theater-demo/afisha/"}],["$","a",null,{"children":"Найти в архиве","href":"/ryzhiy-theater-demo/архив/"}]]}]]}],[]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-brand-block","children":[["$","a",null,{"className":"footer-wordmark","children":"Рыжий Театр","href":"/ryzhiy-theater-demo/"}],["$","address",null,{"children":["Москва · улица Руднёвка, 4",["$","br",null,{}],"Камерный зал на 50 мест"]}]]}],["$","div",null,{"className":"footer-contact","children":[["$","h2",null,{"children":"Касса и адрес"}],["$","a",null,{"href":"tel:+79263219844","children":"8 (926) 321-98-44"}],["$","a",null,{"href":"mailto:r-teatr@yandex.ru","children":"r-teatr@yandex.ru"}],["$","span",null,{"children":"Будни 15:00–20:00 · суббота с 12:00 · воскресенье с 11:00"}],"$Lb"]}],"$Lc"]}],"$Ld"]}]]}]}]}]]}],"p":"$@e","v":null,"s":"$6"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@4","v":"$5","s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Спектакль «Самые первые сказки»"}],["$","meta","1",{"name":"description","content":"“Курочка Ряба”, “Колобок”, “Репка” – эти, известные всем детям сказки, задорно и динамично разыграют настоящие шалуны Дед и Бабка. А юные зрители будут помогать им с помощью музыкальных инструментов. Продолжительность 35 мин. (Возраст 2+). Режиссёр Ксения Бевзова, автор Олеся Емельянова, художник Мария Шевченко, куклы Наталья Ромась. Художественный руководитель проекта Роман Светлов."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/ryzhiy-theater-demo/favicon.ico?dce426d0b354ae36","type":"image/x-icon","sizes":"16x16"}],["$","link","4",{"rel":"icon","href":"/ryzhiy-theater-demo/icon.svg?89bda9a526734ca1","type":"image/svg+xml","sizes":"any"}],["$","$L1a","5",{}]]}]}],null]}],null]}],"p":"$@1b","v":null,"s":"$6"}},"a":"$@1c","u":"$@1d","b":"WsJmgieTSCtyVDy-ZGu0g"}
+1e:"static/chunks/app/(public)/%5B%5B...slug%5D%5D/page-510d546a9a6a46fa.js"
+1f:I[3135,["89","$1e"],"PosterDeck"]
+b:["$","a",null,{"children":"Как добраться","href":"/ryzhiy-theater-demo/kontakty/"}]
+c:["$","nav",null,{"className":"footer-links","aria-label":"Разделы театра","children":[["$","h2",null,{"children":"Разделы"}],["$","a",null,{"children":"Афиша","href":"/ryzhiy-theater-demo/afisha/"}],["$","a",null,{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a",null,{"children":"Актёрская школа","href":"/ryzhiy-theater-demo/школа/"}],["$","a",null,{"children":"О театре","href":"/ryzhiy-theater-demo/о-театре/"}],["$","a",null,{"children":"Фотогалерея","href":"/ryzhiy-theater-demo/фото/"}],["$","a",null,{"children":"Медиатека","href":"/ryzhiy-theater-demo/media-library/"}],["$","a",null,{"children":"Цены и льготы","href":"/ryzhiy-theater-demo/ceny/"}],["$","a",null,{"children":"Франшиза театра","href":"/ryzhiy-theater-demo/franchise/"}],["$","a",null,{"children":"Публикации","href":"/ryzhiy-theater-demo/публикации/"}],["$","a",null,{"children":"Архив сайта","href":"/ryzhiy-theater-demo/архив/"}]]}]
+d:["$","p",null,{"className":"copyright","children":"© «Рыжий Театр» · Фотографии и материалы принадлежат их правообладателям."}]
+10:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}]
+20:Tf79,
+<p>“Курочка Ряба”, “Колобок”, “Репка” – эти, известные всем детям сказки, задорно и динамично разыграют настоящие шалуны Дед и Бабка. А юные зрители будут помогать им с помощью музыкальных инструментов. Продолжительность 35 мин. (Возраст 2+). Режиссёр Ксения Бевзова, автор Олеся Емельянова, художник Мария Шевченко, куклы Наталья Ромась. Художественный руководитель проекта Роман Светлов.</p>
+<p><img alt="" loading="lazy" height="372" src="/ryzhiy-theater-demo/materials/a7250d297eb316fd799cb326375e9cba78561072e813f6c559a0229d319e937e.jpg" srcset="/ryzhiy-theater-demo/materials/a7250d297eb316fd799cb326375e9cba78561072e813f6c559a0229d319e937e.jpg 1024w, /ryzhiy-theater-demo/materials/37788278d95e9849306a31b9e5486af9aaecee9d37d530dbbaf14e2c529259f8.jpg 601w, /ryzhiy-theater-demo/materials/30c060481dd32015ec406f0b3c1817d678703421961edaef331d462f3b52cd62.jpg 300w" width="560" /></p>
+
+
+<div>
+<div id="huge_it_loading_image_4"> <img alt="" loading="lazy" height="100" src="/ryzhiy-theater-demo/materials/6bb94f3a69669fba548dbba9a87dee259698b2bf339f3ed430e35a8a8ab49811.gif" width="100" /> </div>
+<div>
+
+<div>
+<div>
+<div id="huge_it_dots_0_4"></div>
+<div id="huge_it_dots_1_4"></div>
+<div id="huge_it_dots_2_4"></div>
+<div id="huge_it_dots_3_4"></div>
+<div id="huge_it_dots_4_4"></div>
+<div id="huge_it_dots_5_4"></div>
+</div>
+<a href="#" id="huge_it_slideshow_left_4">
+<div id="huge_it_slideshow_left-ico_4">
+<div><i></i></div></div>
+</a>
+<a href="#" id="huge_it_slideshow_right_4">
+<div id="huge_it_slideshow_right-ico_4">
+<div><i></i></div></div>
+</a>
+</div>
+
+<div id="huge_it_slideshow_image_container_4">
+<div>
+<div>
+<ul>
+<li id="image_id_4_0">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_4_0" src="/ryzhiy-theater-demo/materials/e429e45b045fd7312dd574ca8573a34ae4d6129a079cf2f24f4c18dc0746c4ce.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_4_1">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_4_1" src="/ryzhiy-theater-demo/materials/4a7414829f315d085f0e552918e856705206bd42618ad953d198cd047b4b80c0.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_4_2">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_4_2" src="/ryzhiy-theater-demo/materials/cf7ee6dfd868f49b20e05188bf88d524d7de2d21d90b200a2e3bb1491fa2cb03.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_4_3">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_4_3" src="/ryzhiy-theater-demo/materials/d004276a13abcd2621d18dcb7e3f0848c4f68b6e9c8d6577c3ec36d5de32eabc.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_4_4">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_4_4" src="/ryzhiy-theater-demo/materials/eb11095fd91d96921e75c0f41d1a353cf8151a51c6fe94e2dc70440fce80ffc2.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_4_5">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_4_5" src="/ryzhiy-theater-demo/materials/50c95b9a4023558a108b9c02d73ae083067d2bc4fa03f6aa655e53334f2afee7.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+<figure><img alt="" loading="lazy" src="/ryzhiy-theater-demo/materials/2db5ff2e7bc5dd02b0bcd4dc24beea0e4909983619cebb41e48715139582eaf8.jpg" srcset="/ryzhiy-theater-demo/materials/2db5ff2e7bc5dd02b0bcd4dc24beea0e4909983619cebb41e48715139582eaf8.jpg 1024w, /ryzhiy-theater-demo/materials/efee1e1d4cc78df030e7c4cd3ca9a07a97709f78040135eb2990949a4704233b.jpg 601w, /ryzhiy-theater-demo/materials/49ce285f54ad81319a5ae521287ce88abf6f6230063763808d0b98c4917d198e.jpg 300w, /ryzhiy-theater-demo/materials/34d18385dbddb02f26ccdcd2a55b7554382aa7fdbca352923f891b61f9d15c9b.jpg 768w" /><figcaption>SONY DSC</figcaption></figure>
+13:["$","$1","c",{"children":[["$","article",null,{"className":"container programme-article article-show","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Хлебные крошки","children":[["$","a",null,{"children":"Главная","href":"/ryzhiy-theater-demo/"}],[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","a",null,{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}]],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Спектакль «Самые первые сказки»"}]]}],["$","div",null,{"className":"production-spread","children":[["$","header",null,{"className":"programme-heading","children":[false,["$","h1",null,{"children":"Самые первые сказки"}],[false,false,["$","div",null,{"className":"booking-actions","children":[["$","a",null,{"className":"button button-primary","children":"Посмотреть афишу","href":"/ryzhiy-theater-demo/afisha/"}],["$","a",null,{"className":"button button-text","href":"#material","children":"О спектакле"}]]}]],"$undefined",false,false]}],["$","$L1f","1878",{"production":{"title":"Самые первые сказки","path":"/samye_pervye_skazki/","photos":[{"url":"/ryzhiy-theater-demo/posters/motion/1878/photo-e429e45b045fd7.webp","alt":"Кукольные персонажи у ширмы.","source":"https://redtheater.ru/samye_pervye_skazki/","camera":{"x":50,"y":50,"scales":[1,1.025,1.05]},"original":"/ryzhiy-theater-demo/materials/e429e45b045fd7312dd574ca8573a34ae4d6129a079cf2f24f4c18dc0746c4ce.jpg"},{"url":"/ryzhiy-theater-demo/posters/motion/1878/photo-cf7ee6dfd868f4.webp","alt":"Кукольная сцена из русских народных сказок.","source":"https://redtheater.ru/samye_pervye_skazki/","camera":{"x":50,"y":50,"scales":[1,1.025,1.05]},"original":"/ryzhiy-theater-demo/materials/cf7ee6dfd868f49b20e05188bf88d524d7de2d21d90b200a2e3bb1491fa2cb03.jpg"}],"artwork":"/ryzhiy-theater-demo/posters/motion/1878/frame-0.webp","frames":["/ryzhiy-theater-demo/posters/motion/1878/frame-0.webp","/ryzhiy-theater-demo/posters/motion/1878/frame-1.webp","/ryzhiy-theater-demo/posters/motion/1878/frame-2.webp"],"artworkRatio":2,"loop":"/ryzhiy-theater-demo/posters/motion/1878/puppet-loop.webp","previewLoop":"/ryzhiy-theater-demo/posters/motion/1878/preview-loop.webp","previewStill":"/ryzhiy-theater-demo/posters/motion/1878/preview-still.webp"},"priority":true}]]}],false,["$","div",null,{"className":"reading-spread","id":"material","children":[["$","aside",null,{"className":"reading-margin","children":[["$","h2",null,{"children":"Репертуар"}],["$","nav",null,{"aria-label":"Соседние материалы","children":[["$","a","/репертуар/",{"children":"Все спектакли","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a","/afisha/",{"children":"Календарь показов","href":"/ryzhiy-theater-demo/afisha/"}],["$","a","/как-купить-билет/",{"children":"Как купить билет","href":"/ryzhiy-theater-demo/как-купить-билет/"}]]}]]}],["$","div",null,{"className":"reading-column","children":["",false,["$","div",null,{"className":"rich-content","dangerouslySetInnerHTML":{"__html":"$20"}}]]}]]}],"$L21"]}],["$L22"],"$L23"]}]
+24:I[7202,[],"OutletBoundary"]
+:HL["/ryzhiy-theater-demo/_next/static/css/17c7c9b302d13b27.css","style"]
+6:300
+21:["$","nav",null,{"className":"article-end","aria-label":"Продолжить просмотр","children":[["$","a",null,{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a",null,{"children":"Ближайшие показы","href":"/ryzhiy-theater-demo/afisha/"}]]}]
+22:["$","link","0",{"rel":"stylesheet","href":"/ryzhiy-theater-demo/_next/static/css/17c7c9b302d13b27.css","precedence":"next"}]
+23:["$","$L24",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+1d:true
+6:C
+25:null
+1c:0
+11:"$undefined"
+e:"$undefined"
+4:"$undefined"
+1b:"$undefined"
+14:"$undefined"

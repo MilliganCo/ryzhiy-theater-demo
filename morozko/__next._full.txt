@@ -1,0 +1,89 @@
+1:"$Sreact.fragment"
+2:I[4827,[],""]
+3:I[9940,[],""]
+6:"static/chunks/app/(public)/layout-4cc7d50a1200c095.js"
+7:"MobileNavigation"
+8:I[4540,["816","$6"],"$7"]
+13:"ViewportBoundary"
+14:I[7202,[],"$13"]
+16:"MetadataBoundary"
+17:I[7202,[],"$16"]
+18:"$Sreact.suspense"
+1a:I[2145,[],"default",1]
+:HL["/ryzhiy-theater-demo/_next/static/css/fa1040c009643ed5.css","style"]
+:HL["/ryzhiy-theater-demo/_next/static/css/17c7c9b302d13b27.css","style"]
+4:X
+11:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L12","p":false,"v":null}}]]
+f:[["children",{"s":{"n":"slug","t":"oc","k":"morozko","s":["_not-found","_global-error","favicon.ico","icon.svg"]},"h":66048,"d":{"r":"$L10","p":false,"v":"$4"},"c":"$Q11"}]]
+5:[["children",{"s":"(public)","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ryzhiy-theater-demo/_next/static/css/fa1040c009643ed5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":["$","div",null,{"className":"public-site","children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"К содержанию"}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"header-inner","children":[["$","a",null,{"className":"wordmark","aria-label":"Рыжий Театр — главная","children":[["$","span",null,{"className":"wordmark-main","children":["Рыжий ",["$","span",null,{"className":"wordmark-smile","children":":)"}]]}],["$","span",null,{"className":"wordmark-sub","children":"Театр · Москва"}]],"href":"/ryzhiy-theater-demo/"}],["$","nav",null,{"className":"desktop-nav","aria-label":"Основная навигация","children":[[["$","a","/afisha/",{"children":"Афиша","href":"/ryzhiy-theater-demo/afisha/"}],["$","a","/репертуар/",{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a","/школа/",{"children":"Школа","href":"/ryzhiy-theater-demo/школа/"}],["$","a","/о-театре/",{"children":"О театре","href":"/ryzhiy-theater-demo/о-театре/"}],["$","a","/фото/",{"children":"Фото","href":"/ryzhiy-theater-demo/фото/"}],["$","a","/публикации/",{"children":"Публикации","href":"/ryzhiy-theater-demo/публикации/"}],["$","a","/kontakty/",{"children":"Контакты","href":"/ryzhiy-theater-demo/kontakty/"}]],["$","a",null,{"children":"Архив","href":"/ryzhiy-theater-demo/архив/"}]]}],["$","div",null,{"className":"header-actions","children":[["$","span",null,{"className":"ticket-launch","children":["$","a",null,{"className":"header-ticket","href":"https://redtheater.ru/?afisha_open_widget=1","aria-label":"Купить билет онлайн","children":"Билеты"}]}],["$","$L8",null,{}]]}]]}]}],["$","main",null,{"id":"main-content","className":"site-main","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"container not-found-page","children":[["$","p",null,{"className":"section-kicker","children":"404"}],["$","h1",null,{"children":"Страница не найдена"}],["$","p",null,{"children":"Найти спектакль можно в афише, а старую публикацию — в архиве театра."}],["$","div",null,{"children":[["$","a",null,{"className":"button button-primary","children":"Открыть афишу","href":"/ryzhiy-theater-demo/afisha/"}],["$","a",null,{"children":"Найти в архиве","href":"/ryzhiy-theater-demo/архив/"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-brand-block","children":[["$","a",null,{"className":"footer-wordmark","children":"Рыжий Театр","href":"/ryzhiy-theater-demo/"}],["$","address",null,{"children":["Москва · улица Руднёвка, 4",["$","br",null,{}],"Камерный зал на 50 мест"]}]]}],["$","div",null,{"className":"footer-contact","children":[["$","h2",null,{"children":"Касса и адрес"}],"$L9","$La","$Lb","$Lc"]}],"$Ld"]}],"$Le"]}]]}]}]}]]}],"p":false,"v":null},"c":"$Qf"}]]
+0:{"P":null,"c":["","morozko",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$4"},"c":"$Q5"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":"$L15"}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":"$L19"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1a",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"WsJmgieTSCtyVDy-ZGu0g"}
+1c:I[7202,[],"OutletBoundary"]
+4:C
+9:["$","a",null,{"href":"tel:+79263219844","children":"8 (926) 321-98-44"}]
+a:["$","a",null,{"href":"mailto:r-teatr@yandex.ru","children":"r-teatr@yandex.ru"}]
+b:["$","span",null,{"children":"Будни 15:00–20:00 · суббота с 12:00 · воскресенье с 11:00"}]
+c:["$","a",null,{"children":"Как добраться","href":"/ryzhiy-theater-demo/kontakty/"}]
+d:["$","nav",null,{"className":"footer-links","aria-label":"Разделы театра","children":[["$","h2",null,{"children":"Разделы"}],["$","a",null,{"children":"Афиша","href":"/ryzhiy-theater-demo/afisha/"}],["$","a",null,{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a",null,{"children":"Актёрская школа","href":"/ryzhiy-theater-demo/школа/"}],["$","a",null,{"children":"О театре","href":"/ryzhiy-theater-demo/о-театре/"}],["$","a",null,{"children":"Фотогалерея","href":"/ryzhiy-theater-demo/фото/"}],["$","a",null,{"children":"Медиатека","href":"/ryzhiy-theater-demo/media-library/"}],["$","a",null,{"children":"Цены и льготы","href":"/ryzhiy-theater-demo/ceny/"}],["$","a",null,{"children":"Франшиза театра","href":"/ryzhiy-theater-demo/franchise/"}],["$","a",null,{"children":"Публикации","href":"/ryzhiy-theater-demo/публикации/"}],["$","a",null,{"children":"Архив сайта","href":"/ryzhiy-theater-demo/архив/"}]]}]
+e:["$","p",null,{"className":"copyright","children":"© «Рыжий Театр» · Фотографии и материалы принадлежат их правообладателям."}]
+10:["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+12:["$","$1","c",{"children":["$L1b",[["$","link","0",{"rel":"stylesheet","href":"/ryzhiy-theater-demo/_next/static/css/17c7c9b302d13b27.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L1c",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}]
+1e:"static/chunks/app/(public)/%5B%5B...slug%5D%5D/page-510d546a9a6a46fa.js"
+1f:I[3135,["89","$1e"],"PosterDeck"]
+20:T976,
+<p>Разудалая народная сказка с песнями и танцами. Добрая девушка Настенька сумеет понравиться лесному деду Морозко и обретёт счастье, укатившись от злобной мачехи на тройке лошадей с Иваном-Молодцом. Продолжительность 35 минут. (Возраст 4+). Автор пьесы и режиссёр Роман Светлов, композитор Олег Гуртовой, художник Мария Шевченко, куклы – Наталья и Вероника Ромась.</p>
+<p><img alt="" loading="lazy" height="373" src="/ryzhiy-theater-demo/materials/eeb2e8dc469dcebe0921a726e4401a891ce40a6a5e13e4f21f39b4e52f3ecadf.jpg" srcset="/ryzhiy-theater-demo/materials/eeb2e8dc469dcebe0921a726e4401a891ce40a6a5e13e4f21f39b4e52f3ecadf.jpg 1024w, /ryzhiy-theater-demo/materials/56a624b012405a070223d1405aab5dc621bad5dd65defce9a57dd76533056260.jpg 600w, /ryzhiy-theater-demo/materials/5a9f8400954e668700dd4e15442b25b067700f2aa4615a41b3875e49a7d875f4.jpg 300w" width="560" /></p>
+<p>Видео к спектаклю “Морозко”</p>
+<p><a href="https://vk.com/video-49608090_456239368">https://vk.com/video-49608090_456239368</a></p>
+
+
+<div>
+<div id="huge_it_loading_image_7"> <img alt="" loading="lazy" height="100" src="/ryzhiy-theater-demo/materials/6bb94f3a69669fba548dbba9a87dee259698b2bf339f3ed430e35a8a8ab49811.gif" width="100" /> </div>
+<div>
+
+<div>
+<div>
+<div id="huge_it_dots_0_7"></div>
+<div id="huge_it_dots_1_7"></div>
+</div>
+<a href="#" id="huge_it_slideshow_left_7">
+<div id="huge_it_slideshow_left-ico_7">
+<div><i></i></div></div>
+</a>
+<a href="#" id="huge_it_slideshow_right_7">
+<div id="huge_it_slideshow_right-ico_7">
+<div><i></i></div></div>
+</a>
+</div>
+
+<div id="huge_it_slideshow_image_container_7">
+<div>
+<div>
+<ul>
+<li id="image_id_7_0">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_7_0" src="/ryzhiy-theater-demo/materials/89814d3db8c795987d9d55bbc6d59f7cbfd7f827bec82bb8b3543c8a1498c90c.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+<li id="image_id_7_1">
+<img alt="" loading="lazy" id="huge_it_slideshow_image_7_1" src="/ryzhiy-theater-demo/materials/da6f8d58070fa485a1eced991d0cafaf182f3b7887d3dd934bc04c2998a2bb27.jpg" />
+<div>
+</div>
+<div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+1b:["$","article",null,{"className":"container programme-article article-show","children":[["$","nav",null,{"className":"breadcrumbs","aria-label":"Хлебные крошки","children":[["$","a",null,{"children":"Главная","href":"/ryzhiy-theater-demo/"}],[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","a",null,{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}]],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Спектакль «Морозко»"}]]}],["$","div",null,{"className":"production-spread","children":[["$","header",null,{"className":"programme-heading","children":[false,["$","h1",null,{"children":"Морозко"}],[false,["$","div",null,{"className":"performance-times","id":"show-dates","children":[["$","h2",null,{"children":"Ближайшие показы"}],[["$","div","2026-12-2012:00",{"children":[["$","time",null,{"dateTime":"2026-12-20T12:00","children":["20 декабря"," ",["$","b",null,{"children":"12:00"}]]}],["$","span",null,{"children":"4+"}]]}]]]}],[["$","div",null,{"className":"booking-actions","children":[["$","span",null,{"className":"ticket-launch","children":["$","a",null,{"className":"button button-primary","href":"https://redtheater.ru/?afisha_open_widget=1","aria-label":"Купить билет онлайн","children":"Купить билет онлайн"}]}],["$","a",null,{"className":"button button-text","href":"tel:+79263219844","children":"Бронь по телефону"}]]}],["$","a",null,{"className":"read-play","href":"#material","children":"О спектакле"}]]],"$undefined",false,false]}],["$","$L1f","1869",{"production":{"title":"Морозко","path":"/morozko/","photos":[],"artwork":"/ryzhiy-theater-demo/posters/motion/1869/frame-0.webp","frames":["/ryzhiy-theater-demo/posters/motion/1869/frame-0.webp","/ryzhiy-theater-demo/posters/motion/1869/frame-1.webp","/ryzhiy-theater-demo/posters/motion/1869/frame-2.webp"],"loop":"/ryzhiy-theater-demo/posters/motion/1869/puppet-loop.webp","previewLoop":"/ryzhiy-theater-demo/posters/motion/1869/preview-loop.webp","previewStill":"/ryzhiy-theater-demo/posters/motion/1869/preview-still.webp"},"priority":true}]]}],false,["$","div",null,{"className":"reading-spread","id":"material","children":[["$","aside",null,{"className":"reading-margin","children":[["$","h2",null,{"children":"Репертуар"}],["$","nav",null,{"aria-label":"Соседние материалы","children":[["$","a","/репертуар/",{"children":"Все спектакли","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a","/afisha/",{"children":"Календарь показов","href":"/ryzhiy-theater-demo/afisha/"}],["$","a","/как-купить-билет/",{"children":"Как купить билет","href":"/ryzhiy-theater-demo/как-купить-билет/"}]]}]]}],["$","div",null,{"className":"reading-column","children":["",false,["$","div",null,{"className":"rich-content","dangerouslySetInnerHTML":{"__html":"$20"}}]]}]]}],"$L21"]}]
+21:["$","nav",null,{"className":"article-end","aria-label":"Продолжить просмотр","children":[["$","a",null,{"children":"Репертуар","href":"/ryzhiy-theater-demo/репертуар/"}],["$","a",null,{"children":"Ближайшие показы","href":"/ryzhiy-theater-demo/afisha/"}]]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+22:I[6327,[],"IconMark"]
+19:[["$","title","0",{"children":"Спектакль «Морозко»"}],["$","meta","1",{"name":"description","content":"Разудалая народная сказка с песнями и танцами. Добрая девушка Настенька сумеет понравиться лесному деду Морозко и обретёт счастье, укатившись от злобной мачехи на тройке лошадей с Иваном-Молодцом. Продолжительность 35 минут. (Возраст 4+). Автор пьесы и режиссёр Роман Светлов, композитор Олег Гуртовой, художник Мария Шевченко, куклы – Наталья и Вероника Ромась. Видео к спектаклю “Морозко” https://vk.com/video-49608090_456239368"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/ryzhiy-theater-demo/favicon.ico?dce426d0b354ae36","type":"image/x-icon","sizes":"16x16"}],["$","link","4",{"rel":"icon","href":"/ryzhiy-theater-demo/icon.svg?89bda9a526734ca1","type":"image/svg+xml","sizes":"any"}],["$","$L22","5",{}]]
+1d:null
